@@ -76,6 +76,17 @@
         "zigen_url": "./zigen/xiaoming.json",
         "zigen_font": "./Yuniversus.woff"
     },
+	{
+        "id": "xiaoming-2",
+        "full_name": "潇明（两码）",
+        "author": "qq3qq",
+        "maintainer": "qq3qq",
+        "category": ["宇浩系列", "衍生方案"],
+        "description": "类潇湘五码自定码",
+        "icon": "📃",
+        "zigen_url": "./zigen/xiaoming-2.json",
+        "zigen_font": "./Yuniversus.woff"
+    },
     {
 		"id": "xiaoxiang",
     	"full_name": "潇湘",
@@ -85,17 +96,6 @@
         "description": "大小码乱序",
         "icon": "📃",
     	"zigen_url": "./zigen/xiaoxiang.json",
-    	"zigen_font": "./ChaiPUA-0.2.7.ttf"
-    },
-	{
-		"id": "xiaoxiang2",
-    	"full_name": "潇湘（两码）",
-        "author": "荒",
-        "maintainer": "枕月",
-        "category": ["其他方案"],
-        "description": "大小码乱序",
-        "icon": "📃",
-    	"zigen_url": "./zigen/xiaoxiang-2.json",
     	"zigen_font": "./ChaiPUA-0.2.7.ttf"
     },
 	{
