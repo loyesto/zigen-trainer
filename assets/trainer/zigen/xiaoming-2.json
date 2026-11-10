@@ -1,1274 +1,1167 @@
 [
    {
-      "classify": "通",
-      "code": "Ad",
-      "description": "",
-      "zigens": [
-         "夭",
-         "亥"
-      ],
-      "type": "类"
-   },
-   {
-      "classify": "通",
-      "code": "Ae",
-      "description": "",
-      "zigens": [
-         "示"
-      ],
-      "type": "类"
-   },
-   {
-      "classify": "通",
-      "code": "Af",
-      "description": "",
-      "zigens": [
-         "广"
-      ],
-      "type": "类"
-   },
-   {
-      "classify": "通",
-      "code": "Ai",
-      "description": "",
-      "zigens": [
-         "目"
-      ],
-      "type": "类"
-   },
-   {
-      "classify": "通",
-      "code": "Aj",
-      "description": "",
-      "zigens": [
-         "犬",
-         "犭",
-         "曲",
-         "〇"
-      ],
-      "type": "类"
-   },
-   {
-      "classify": "通",
-      "code": "Ak",
-      "description": "",
-      "zigens": [
-         "口",
-         "{曹上}"
-      ],
-      "type": "类"
-   },
-   {
-      "classify": "通",
-      "code": "Bd",
-      "description": "",
-      "zigens": [
-         "弋",
-         "鱼"
-      ],
-      "type": "类"
-   },
-   {
-      "classify": "通",
-      "code": "Be",
-      "description": "",
-      "zigens": [
-         "石",
-         "烏"
-      ],
-      "type": "类"
-   },
-   {
-      "classify": "通",
-      "code": "Bf",
-      "description": "",
-      "zigens": [
-         "瓜"
-      ],
-      "type": "类"
-   },
-   {
-      "classify": "通",
-      "code": "Bi",
-      "description": "",
-      "zigens": [
-         "爪",
-         "{具上}",
-         "罒",
-         "皿"
-      ],
-      "type": "类"
-   },
-   {
-      "classify": "通",
-      "code": "Bj",
-      "description": "",
-      "zigens": [
-         "七",
-         "且",
-         "{鳥上}",
-         "{烏上}"
-      ],
-      "type": "类"
-   },
-   {
-      "classify": "通",
-      "code": "Bk",
-      "description": "",
-      "zigens": [
-         "厂",
-         "匚",
-         "丆",
-         "冊",
-         "鳥"
-      ],
-      "type": "类"
-   },
-   {
-      "classify": "通",
-      "code": "Cd",
-      "description": "",
-      "zigens": [
-         "火"
-      ],
-      "type": "类"
-   },
-   {
-      "classify": "通",
-      "code": "Ce",
-      "description": "",
-      "zigens": [
-         "貝"
-      ],
-      "type": "类"
-   },
-   {
-      "classify": "通",
-      "code": "Cf",
-      "description": "",
-      "zigens": [
-         "田"
-      ],
-      "type": "类"
-   },
-   {
-      "classify": "通",
-      "code": "Ci",
-      "description": "",
-      "zigens": [
-         "走",
-         "麻",
-         "卯"
-      ],
-      "type": "类"
-   },
-   {
-      "classify": "通",
-      "code": "Cj",
-      "description": "",
-      "zigens": [
-         "皮",
-         "{卬左}",
-         "片",
-         "爿",
-         "{乐上}",
-         "{卯左}"
-      ],
-      "type": "类"
-   },
-   {
-      "classify": "通",
-      "code": "Ck",
-      "description": "",
-      "zigens": [
-         "女",
-         "长"
-      ],
-      "type": "类"
-   },
-   {
-      "classify": "通",
-      "code": "Gd",
-      "description": "",
-      "zigens": [
-         "儿",
-         "而",
-         "予",
-         "曰"
-      ],
-      "type": "类"
-   },
-   {
-      "classify": "通",
-      "code": "Ge",
-      "description": "",
-      "zigens": [
-         "贝",
-         "生"
-      ],
-      "type": "类"
-   },
-   {
-      "classify": "通",
-      "code": "Gf",
-      "description": "",
-      "zigens": [
-         "工"
-      ],
-      "type": "类"
-   },
-   {
-      "classify": "通",
-      "code": "Gi",
-      "description": "",
-      "zigens": [
-         "子",
-         "早",
-         "面",
-         "{曾中}",
-         "{横日}",
-         "豸"
-      ],
-      "type": "类"
-   },
-   {
-      "classify": "通",
-      "code": "Gj",
-      "description": "",
-      "zigens": [
-         "日",
-         "了",
-         "⺧"
-      ],
-      "type": "类"
-   },
-   {
-      "classify": "通",
-      "code": "Gk",
-      "description": "",
-      "zigens": [
-         "ナ",
-         "{奉下}",
-         "见",
-         "牛",
-         "㐄",
-         "孑"
-      ],
-      "type": "类"
-   },
-   {
-      "classify": "通",
-      "code": "Hd",
-      "description": "",
-      "zigens": [
-         "一",
-         "ユ",
-         "户",
-         "戶",
-         "コ",
-         "戸"
-      ],
-      "type": "类"
-   },
-   {
-      "classify": "通",
-      "code": "He",
-      "description": "",
-      "zigens": [
-         "匕",
-         "殳"
-      ],
-      "type": "类"
-   },
-   {
-      "classify": "通",
-      "code": "Hf",
-      "description": "",
-      "zigens": [
-         "辶",
-         "忄",
-         "鬥",
-         "⻍"
-      ],
-      "type": "类"
-   },
-   {
-      "classify": "通",
-      "code": "Hi",
-      "description": "",
-      "zigens": [
-         "之",
-         "門",
-         "風",
-         "{亞下}",
-         "{亞中}",
-         "{亜下}"
-      ],
-      "type": "类"
-   },
-   {
-      "classify": "通",
-      "code": "Hj",
-      "description": "",
-      "zigens": [
-         "千"
-      ],
-      "type": "类"
-   },
-   {
-      "classify": "通",
-      "code": "Hk",
-      "description": "",
-      "zigens": [
-         "几",
-         "臣",
-         "{姬右}",
-         "{弬右}"
-      ],
-      "type": "类"
-   },
-   {
-      "classify": "通",
-      "code": "Ld",
-      "description": "",
-      "zigens": [
-         "也",
-         "阝",
-         "乂"
-      ],
-      "type": "类"
-   },
-   {
-      "classify": "通",
-      "code": "Le",
-      "description": "",
-      "zigens": [
-         "厶",
-         "舌",
-         "未"
-      ],
-      "type": "类"
-   },
-   {
-      "classify": "通",
-      "code": "Lf",
-      "description": "",
-      "zigens": [
-         "丶",
-         "宀",
-         "乀"
-      ],
-      "type": "类"
-   },
-   {
-      "classify": "通",
-      "code": "Li",
-      "description": "",
-      "zigens": [
-         "末",
-         "乜"
-      ],
-      "type": "类"
-   },
-   {
-      "classify": "通",
-      "code": "Lj",
-      "description": "",
-      "zigens": [
-         "其",
-         "壬",
-         "{鬯中}"
-      ],
-      "type": "类"
-   },
-   {
-      "classify": "通",
-      "code": "Lk",
-      "description": "",
-      "zigens": [
-         "辰"
-      ],
-      "type": "类"
-   },
-   {
-      "classify": "通",
-      "code": "Md",
-      "description": "",
-      "zigens": [
-         "合",
-         "頁"
-      ],
-      "type": "类"
-   },
-   {
-      "classify": "通",
-      "code": "Me",
-      "description": "",
-      "zigens": [
-         "八",
-         "豕",
-         "尚",
-         "{母框}",
-         "彑",
-         "{互中}"
-      ],
-      "type": "类"
-   },
-   {
-      "classify": "通",
-      "code": "Mf",
-      "description": "",
-      "zigens": [
-         "讠",
-         "丁",
-         "灬"
-      ],
-      "type": "类"
-   },
-   {
-      "classify": "通",
-      "code": "Mi",
-      "description": "",
-      "zigens": [
-         "米",
-         "母",
-         "龸",
-         "{黽中}"
-      ],
-      "type": "类"
-   },
-   {
-      "classify": "通",
-      "code": "Mj",
-      "description": "",
-      "zigens": [
-         "{介下}",
-         "下",
-         "{豕下}",
-         "僉",
-         "{龠上}",
-         "{僉上}"
-      ],
-      "type": "类"
-   },
-   {
-      "classify": "通",
-      "code": "Mk",
-      "description": "",
-      "zigens": [
-         "九",
-         "車",
-         "丅",
-         "{專上}",
-         "叀"
-      ],
-      "type": "类"
-   },
-   {
-      "classify": "通",
-      "code": "Nd",
-      "description": "",
-      "zigens": [
-         "羊",
-         "业",
-         "{眉上}"
-      ],
-      "type": "类"
-   },
-   {
-      "classify": "通",
-      "code": "Ne",
-      "description": "",
-      "zigens": [
-         "文",
-         "尸",
-         "卜",
-         "卅"
-      ],
-      "type": "类"
-   },
-   {
-      "classify": "通",
-      "code": "Nf",
-      "description": "",
-      "zigens": [
-         "⺶",
-         "古",
-         "衤",
-         "⺷",
-         "{南心}"
-      ],
-      "type": "类"
-   },
-   {
-      "classify": "通",
-      "code": "Ni",
-      "description": "",
-      "zigens": [
-         "⺊",
-         "{乍下}",
-         "丰",
-         "毛"
-      ],
-      "type": "类"
-   },
-   {
-      "classify": "通",
-      "code": "Nj",
-      "description": "",
-      "zigens": [
-         "{衣下}",
-         "欠",
-         "钅",
-         "⺽",
-         "卌",
-         "鹵"
-      ],
-      "type": "类"
-   },
-   {
-      "classify": "通",
-      "code": "Nk",
-      "description": "",
-      "zigens": [
-         "龷",
-         "虫",
-         "臼",
-         "{冓上}",
-         "{畏下}",
-         "{龍右}",
-         "{華中}"
-      ],
-      "type": "类"
-   },
-   {
-      "classify": "通",
-      "code": "Od",
-      "description": "",
-      "zigens": [
-         "月",
-         "卩",
-         "㔾"
-      ],
-      "type": "类"
-   },
-   {
-      "classify": "通",
-      "code": "Oe",
-      "description": "",
-      "zigens": [
-         "白",
-         "上",
-         "ㄩ",
-         "戊",
-         "屮",
-         "{发左}",
-         "丩",
-         "丱"
-      ],
-      "type": "类"
-   },
-   {
-      "classify": "通",
-      "code": "Of",
-      "description": "",
-      "zigens": [
-         "戈",
-         "冖",
-         "弓"
-      ],
-      "type": "类"
-   },
-   {
-      "classify": "通",
-      "code": "Oi",
-      "description": "",
-      "zigens": [
-         "丄",
-         "馬",
-         "{丄丶}"
-      ],
-      "type": "类"
-   },
-   {
-      "classify": "通",
-      "code": "Oj",
-      "description": "",
-      "zigens": [
-         "⺈",
-         "夕",
-         "{炙上}",
-         "辛",
-         "{阜上}",
-         "{祭上}",
-         "{奐上}"
-      ],
-      "type": "类"
-   },
-   {
-      "classify": "通",
-      "code": "Ok",
-      "description": "",
-      "zigens": [
-         "見",
-         "{馬上}"
-      ],
-      "type": "类"
-   },
-   {
-      "classify": "通",
-      "code": "Pd",
-      "description": "",
-      "zigens": [
-         "尤",
-         "亦",
-         "魚"
-      ],
-      "type": "类"
-   },
-   {
-      "classify": "通",
-      "code": "Pe",
-      "description": "",
-      "zigens": [
-         "十"
-      ],
-      "type": "类"
-   },
-   {
-      "classify": "通",
-      "code": "Pf",
-      "description": "",
-      "zigens": [
-         "大",
-         "丷",
-         "䒑",
-         "丬"
-      ],
-      "type": "类"
-   },
-   {
-      "classify": "通",
-      "code": "Pi",
-      "description": "",
-      "zigens": [
-         "リ",
-         "甫"
-      ],
-      "type": "类"
-   },
-   {
-      "classify": "通",
-      "code": "Pj",
-      "description": "",
-      "zigens": [
-         "向",
-         "{囟框}",
-         "{向框}"
-      ],
-      "type": "类"
-   },
-   {
-      "classify": "通",
-      "code": "Pk",
-      "description": "",
-      "zigens": [
-         "尢"
-      ],
-      "type": "类"
-   },
-   {
-      "classify": "通",
-      "code": "Qd",
-      "description": "",
-      "zigens": [
-         "雨",
-         "幺",
-         "由"
-      ],
-      "type": "类"
-   },
-   {
-      "classify": "通",
-      "code": "Qe",
-      "description": "",
-      "zigens": [
-         "亡",
-         "申"
-      ],
-      "type": "类"
-   },
-   {
-      "classify": "通",
-      "code": "Qf",
-      "description": "",
-      "zigens": [
-         "鬼",
-         "电",
-         "{贏框}"
-      ],
-      "type": "类"
-   },
-   {
-      "classify": "通",
-      "code": "Qi",
-      "description": "",
-      "zigens": [
-         "龰",
-         "止",
-         "马",
-         "正"
-      ],
-      "type": "类"
-   },
-   {
-      "classify": "通",
-      "code": "Qj",
-      "description": "",
-      "zigens": [
-         "夊",
-         "夊",
-         "⺁",
-         "{卑上}",
-         "{鬼左}",
-         "甶"
-      ],
-      "type": "类"
-   },
-   {
-      "classify": "通",
-      "code": "Qk",
-      "description": "",
-      "zigens": [
-         "斤",
-         "齒"
-      ],
-      "type": "类"
-   },
-   {
-      "classify": "通",
-      "code": "Rd",
-      "description": "",
-      "zigens": [
-         "彐",
-         "牙",
-         "肀"
-      ],
-      "type": "类"
-   },
-   {
-      "classify": "通",
-      "code": "Re",
-      "description": "",
-      "zigens": [
-         "糸",
-         "糸",
-         "三",
-         "乌"
-      ],
-      "type": "类"
-   },
-   {
-      "classify": "通",
-      "code": "Rf",
-      "description": "",
-      "zigens": [
-         "{兴上}",
-         "⺍",
-         "疒"
-      ],
-      "type": "类"
-   },
-   {
-      "classify": "通",
-      "code": "Ri",
-      "description": "",
-      "zigens": [
-         "隹",
-         "⺌",
-         "{步下}"
-      ],
-      "type": "类"
-   },
-   {
-      "classify": "通",
-      "code": "Rj",
-      "description": "",
-      "zigens": [
-         "勹",
-         "小",
-         "彳",
-         "{周框}",
-         "{微框}",
-         "隶",
-         "{鸟上}"
-      ],
-      "type": "类"
-   },
-   {
-      "classify": "通",
-      "code": "Rk",
-      "description": "",
-      "zigens": [
-         "鸟",
-         "{反彐}"
-      ],
-      "type": "类"
-   },
-   {
-      "classify": "通",
-      "code": "Sd",
-      "description": "",
-      "zigens": [
-         "用",
-         "酉",
-         "{即左}",
-         "虎"
-      ],
-      "type": "类"
-   },
-   {
-      "classify": "通",
-      "code": "Se",
-      "description": "",
-      "zigens": [
-         "王",
-         "手"
-      ],
-      "type": "类"
-   },
-   {
-      "classify": "通",
-      "code": "Sf",
-      "description": "",
-      "zigens": [
-         "艮",
-         "革"
-      ],
-      "type": "类"
-   },
-   {
-      "classify": "通",
-      "code": "Si",
-      "description": "",
-      "zigens": [
-         "囗",
-         "方",
-         "缶",
-         "虍",
-         "{虍上}"
-      ],
-      "type": "类"
-   },
-   {
-      "classify": "通",
-      "code": "Sj",
-      "description": "",
-      "zigens": [
-         "丿",
-         "西",
-         "龵",
-         "饣"
-      ],
-      "type": "类"
-   },
-   {
-      "classify": "通",
-      "code": "Sk",
-      "description": "",
-      "zigens": [
-         "扌",
-         "寸",
-         "{于下}"
-      ],
-      "type": "类"
-   },
-   {
-      "classify": "通",
-      "code": "Td",
-      "description": "",
-      "zigens": [
-         "言"
-      ],
-      "type": "类"
-   },
-   {
-      "classify": "通",
-      "code": "Te",
-      "description": "",
-      "zigens": [
-         "矢",
-         "世",
-         "巛",
-         "{鼠下}",
-         "巜"
-      ],
-      "type": "类"
-   },
-   {
-      "classify": "通",
-      "code": "Tf",
-      "description": "",
-      "zigens": [
-         "亠"
-      ],
-      "type": "类"
-   },
-   {
-      "classify": "通",
-      "code": "Ti",
-      "description": "",
-      "zigens": [
-         "丨",
-         "至",
-         "竹",
-         "〢",
-         "〣"
-      ],
-      "type": "类"
-   },
-   {
-      "classify": "通",
-      "code": "Tj",
-      "description": "",
-      "zigens": [
-         "心",
-         "{乞上}",
-         "{荒下}",
-         "{⺮右}"
-      ],
-      "type": "类"
-   },
-   {
-      "classify": "通",
-      "code": "Tk",
-      "description": "",
-      "zigens": [
-         "耂",
-         "车",
-         "丂",
-         "壴",
-         "川"
-      ],
-      "type": "类"
-   },
-   {
-      "classify": "通",
-      "code": "Ud",
-      "description": "",
-      "zigens": [
-         "乙",
-         "禾",
-         "廴"
-      ],
-      "type": "类"
-   },
-   {
-      "classify": "通",
-      "code": "Ue",
-      "description": "",
-      "zigens": [
-         "纟",
-         "乚",
-         "士",
-         "{纟上}"
-      ],
-      "type": "类"
-   },
-   {
-      "classify": "通",
-      "code": "Uf",
-      "description": "",
-      "zigens": [
-         "土",
-         "{鹿上}"
-      ],
-      "type": "类"
-   },
-   {
-      "classify": "通",
-      "code": "Ui",
-      "description": "",
-      "zigens": [
-         "夫",
-         "飛"
-      ],
-      "type": "类"
-   },
-   {
-      "classify": "通",
-      "code": "Uj",
-      "description": "",
-      "zigens": [
-         "习",
-         "{爲下}",
-         "鹿"
-      ],
-      "type": "类"
-   },
-   {
-      "classify": "通",
-      "code": "Uk",
-      "description": "",
-      "zigens": [
-         "龶",
-         "乃",
-         "𡗗",
-         "{穀框}"
-      ],
-      "type": "类"
-   },
-   {
-      "classify": "通",
-      "code": "Vd",
-      "description": "",
-      "zigens": [
-         "耳",
-         "已"
-      ],
-      "type": "类"
-   },
-   {
-      "classify": "通",
-      "code": "Ve",
-      "description": "",
-      "zigens": [
-         "巴",
-         "巳"
-      ],
-      "type": "类"
-   },
-   {
-      "classify": "通",
-      "code": "Vf",
-      "description": "",
-      "zigens": [
-         "干"
-      ],
-      "type": "类"
-   },
-   {
-      "classify": "通",
-      "code": "Vi",
-      "description": "",
-      "zigens": [
-         "木"
-      ],
-      "type": "类"
-   },
-   {
-      "classify": "通",
-      "code": "Vj",
-      "description": "",
-      "zigens": [
-         "人",
-         "立",
-         "來"
-      ],
-      "type": "类"
-   },
-   {
-      "classify": "通",
-      "code": "Vk",
-      "description": "",
-      "zigens": [
-         "己",
-         "巾",
-         "朩"
-      ],
-      "type": "类"
-   },
-   {
-      "classify": "通",
-      "code": "Wd",
-      "description": "",
-      "zigens": [
-         "页",
-         "禺"
-      ],
-      "type": "类"
-   },
-   {
-      "classify": "通",
-      "code": "We",
-      "description": "",
-      "zigens": [
-         "兀",
-         "身"
-      ],
-      "type": "类"
-   },
-   {
-      "classify": "通",
-      "code": "Wf",
-      "description": "",
-      "zigens": [
-         "{京上}",
-         "高",
-         "{亮上}",
-         "{襄上}"
-      ],
-      "type": "类"
-   },
-   {
-      "classify": "通",
-      "code": "Wi",
-      "description": "",
-      "zigens": [
-         "刂",
-         "冂",
-         "自",
-         "足",
-         "{冂丶}",
-         "{雋下}"
-      ],
-      "type": "类"
-   },
-   {
-      "classify": "通",
-      "code": "Wj",
-      "description": "",
-      "zigens": [
-         "亻",
-         "里",
-         "入"
-      ],
-      "type": "类"
-   },
-   {
-      "classify": "通",
-      "code": "Wk",
-      "description": "",
-      "zigens": [
-         "金",
-         "ᅲ",
-         "甲",
-         "丌"
-      ],
-      "type": "类"
-   },
-   {
-      "classify": "通",
-      "code": "Xd",
-      "description": "",
-      "zigens": [
-         "二",
-         "黑"
-      ],
-      "type": "类"
-   },
-   {
-      "classify": "通",
-      "code": "Xe",
-      "description": "",
-      "zigens": [
-         "山",
-         "瓦"
-      ],
-      "type": "类"
-   },
-   {
-      "classify": "通",
-      "code": "Xf",
-      "description": "",
-      "zigens": [
-         "⺀",
-         "冫",
-         "骨"
-      ],
-      "type": "类"
-   },
-   {
-      "classify": "通",
-      "code": "Xi",
-      "description": "",
-      "zigens": [
-         "门",
-         "{五下}",
-         "咼",
-         "冎"
-      ],
-      "type": "类"
-   },
-   {
-      "classify": "通",
-      "code": "Xj",
-      "description": "",
-      "zigens": [
-         "力",
-         "{二撇}",
-         "穴",
-         "彡",
-         "气",
-         "{飞右}"
-      ],
-      "type": "类"
-   },
-   {
-      "classify": "通",
-      "code": "Xk",
-      "description": "",
-      "zigens": [
-         "艹",
-         "廾",
-         "亍",
-         "丑"
-      ],
-      "type": "类"
-   },
-   {
-      "classify": "通",
-      "code": "Yd",
-      "description": "",
-      "zigens": [
-         "又",
-         "マ",
-         "ス",
-         "癶"
-      ],
-      "type": "类"
-   },
-   {
-      "classify": "通",
-      "code": "Ye",
-      "description": "",
-      "zigens": [
-         "不",
-         "水",
-         "食"
-      ],
-      "type": "类"
-   },
-   {
-      "classify": "通",
-      "code": "Yf",
-      "description": "",
-      "zigens": [
-         "氵",
-         "刀"
-      ],
-      "type": "类"
-   },
-   {
-      "classify": "通",
-      "code": "Yi",
-      "description": "",
-      "zigens": [
-         "非",
-         "舟"
-      ],
-      "type": "类"
-   },
-   {
-      "classify": "通",
-      "code": "Yk",
-      "description": "",
-      "zigens": [
-         "長",
-         "镸",
-         "髟"
-      ],
-      "type": "类"
+      "type": "类",
+      "description": "",
+      "groups": [
+         {
+            "zigens": [
+               "夭",
+               "亥"
+            ],
+            "code": "Ad",
+            "description": "",
+            "classify": "通"
+         },
+         {
+            "zigens": [
+               "示"
+            ],
+            "code": "Ae",
+            "description": "",
+            "classify": "通"
+         },
+         {
+            "zigens": [
+               "广"
+            ],
+            "code": "Af",
+            "description": "",
+            "classify": "通"
+         },
+         {
+            "zigens": [
+               "目"
+            ],
+            "code": "Ai",
+            "description": "",
+            "classify": "通"
+         },
+         {
+            "zigens": [
+               "犬",
+               "犭",
+               "曲",
+               "〇"
+            ],
+            "code": "Aj",
+            "description": "",
+            "classify": "通"
+         },
+         {
+            "zigens": [
+               "口",
+               "{曹上}"
+            ],
+            "code": "Ak",
+            "description": "",
+            "classify": "通"
+         },
+         {
+            "zigens": [
+               "弋",
+               "鱼"
+            ],
+            "code": "Bd",
+            "description": "",
+            "classify": "通"
+         },
+         {
+            "zigens": [
+               "石",
+               "烏"
+            ],
+            "code": "Be",
+            "description": "",
+            "classify": "通"
+         },
+         {
+            "zigens": [
+               "瓜"
+            ],
+            "code": "Bf",
+            "description": "",
+            "classify": "通"
+         },
+         {
+            "zigens": [
+               "爪",
+               "{具上}",
+               "罒",
+               "皿"
+            ],
+            "code": "Bi",
+            "description": "",
+            "classify": "通"
+         },
+         {
+            "zigens": [
+               "七",
+               "且",
+               "{鳥上}",
+               "{烏上}"
+            ],
+            "code": "Bj",
+            "description": "",
+            "classify": "通"
+         },
+         {
+            "zigens": [
+               "厂",
+               "匚",
+               "丆",
+               "冊",
+               "鳥"
+            ],
+            "code": "Bk",
+            "description": "",
+            "classify": "通"
+         },
+         {
+            "zigens": [
+               "火"
+            ],
+            "code": "Cd",
+            "description": "",
+            "classify": "通"
+         },
+         {
+            "zigens": [
+               "貝"
+            ],
+            "code": "Ce",
+            "description": "",
+            "classify": "通"
+         },
+         {
+            "zigens": [
+               "田"
+            ],
+            "code": "Cf",
+            "description": "",
+            "classify": "通"
+         },
+         {
+            "zigens": [
+               "走",
+               "麻",
+               "卯"
+            ],
+            "code": "Ci",
+            "description": "",
+            "classify": "通"
+         },
+         {
+            "zigens": [
+               "皮",
+               "{卬左}",
+               "片",
+               "爿",
+               "{乐上}",
+               "{卯左}"
+            ],
+            "code": "Cj",
+            "description": "",
+            "classify": "通"
+         },
+         {
+            "zigens": [
+               "女",
+               "长"
+            ],
+            "code": "Ck",
+            "description": "",
+            "classify": "通"
+         },
+         {
+            "zigens": [
+               "儿",
+               "而",
+               "予",
+               "曰"
+            ],
+            "code": "Gd",
+            "description": "",
+            "classify": "通"
+         },
+         {
+            "zigens": [
+               "贝",
+               "生"
+            ],
+            "code": "Ge",
+            "description": "",
+            "classify": "通"
+         },
+         {
+            "zigens": [
+               "工"
+            ],
+            "code": "Gf",
+            "description": "",
+            "classify": "通"
+         },
+         {
+            "zigens": [
+               "子",
+               "早",
+               "面",
+               "{曾中}",
+               "{横日}",
+               "豸"
+            ],
+            "code": "Gi",
+            "description": "",
+            "classify": "通"
+         },
+         {
+            "zigens": [
+               "日",
+               "了",
+               "⺧"
+            ],
+            "code": "Gj",
+            "description": "",
+            "classify": "通"
+         },
+         {
+            "zigens": [
+               "ナ",
+               "{奉下}",
+               "见",
+               "牛",
+               "㐄",
+               "孑"
+            ],
+            "code": "Gk",
+            "description": "",
+            "classify": "通"
+         },
+         {
+            "zigens": [
+               "一",
+               "ユ",
+               "户",
+               "戶",
+               "コ",
+               "戸"
+            ],
+            "code": "Hd",
+            "description": "",
+            "classify": "通"
+         },
+         {
+            "zigens": [
+               "匕",
+               "殳"
+            ],
+            "code": "He",
+            "description": "",
+            "classify": "通"
+         },
+         {
+            "zigens": [
+               "辶",
+               "忄",
+               "鬥",
+               "⻍"
+            ],
+            "code": "Hf",
+            "description": "",
+            "classify": "通"
+         },
+         {
+            "zigens": [
+               "之",
+               "門",
+               "風",
+               "{亞下}",
+               "{亞中}",
+               "{亜下}"
+            ],
+            "code": "Hi",
+            "description": "",
+            "classify": "通"
+         },
+         {
+            "zigens": [
+               "千"
+            ],
+            "code": "Hj",
+            "description": "",
+            "classify": "通"
+         },
+         {
+            "zigens": [
+               "几",
+               "臣",
+               "{姬右}",
+               "{弬右}"
+            ],
+            "code": "Hk",
+            "description": "",
+            "classify": "通"
+         },
+         {
+            "zigens": [
+               "也",
+               "阝",
+               "乂"
+            ],
+            "code": "Ld",
+            "description": "",
+            "classify": "通"
+         },
+         {
+            "zigens": [
+               "厶",
+               "舌",
+               "未"
+            ],
+            "code": "Le",
+            "description": "",
+            "classify": "通"
+         },
+         {
+            "zigens": [
+               "丶",
+               "宀",
+               "乀"
+            ],
+            "code": "Lf",
+            "description": "",
+            "classify": "通"
+         },
+         {
+            "zigens": [
+               "末",
+               "乜"
+            ],
+            "code": "Li",
+            "description": "",
+            "classify": "通"
+         },
+         {
+            "zigens": [
+               "其",
+               "壬",
+               "{鬯中}"
+            ],
+            "code": "Lj",
+            "description": "",
+            "classify": "通"
+         },
+         {
+            "zigens": [
+               "辰"
+            ],
+            "code": "Lk",
+            "description": "",
+            "classify": "通"
+         },
+         {
+            "zigens": [
+               "合",
+               "頁"
+            ],
+            "code": "Md",
+            "description": "",
+            "classify": "通"
+         },
+         {
+            "zigens": [
+               "八",
+               "豕",
+               "尚",
+               "{母框}",
+               "彑",
+               "{互中}"
+            ],
+            "code": "Me",
+            "description": "",
+            "classify": "通"
+         },
+         {
+            "zigens": [
+               "讠",
+               "丁",
+               "灬"
+            ],
+            "code": "Mf",
+            "description": "",
+            "classify": "通"
+         },
+         {
+            "zigens": [
+               "米",
+               "母",
+               "龸",
+               "{黽中}"
+            ],
+            "code": "Mi",
+            "description": "",
+            "classify": "通"
+         },
+         {
+            "zigens": [
+               "{介下}",
+               "下",
+               "{豕下}",
+               "僉",
+               "{龠上}",
+               "{僉上}"
+            ],
+            "code": "Mj",
+            "description": "",
+            "classify": "通"
+         },
+         {
+            "zigens": [
+               "九",
+               "車",
+               "丅",
+               "{專上}",
+               "叀"
+            ],
+            "code": "Mk",
+            "description": "",
+            "classify": "通"
+         },
+         {
+            "zigens": [
+               "羊",
+               "业",
+               "{眉上}"
+            ],
+            "code": "Nd",
+            "description": "",
+            "classify": "通"
+         },
+         {
+            "zigens": [
+               "文",
+               "尸",
+               "卜",
+               "卅"
+            ],
+            "code": "Ne",
+            "description": "",
+            "classify": "通"
+         },
+         {
+            "zigens": [
+               "⺶",
+               "古",
+               "衤",
+               "⺷",
+               "{南心}"
+            ],
+            "code": "Nf",
+            "description": "",
+            "classify": "通"
+         },
+         {
+            "zigens": [
+               "⺊",
+               "{乍下}",
+               "丰",
+               "毛"
+            ],
+            "code": "Ni",
+            "description": "",
+            "classify": "通"
+         },
+         {
+            "zigens": [
+               "{衣下}",
+               "欠",
+               "钅",
+               "⺽",
+               "卌",
+               "鹵"
+            ],
+            "code": "Nj",
+            "description": "",
+            "classify": "通"
+         },
+         {
+            "zigens": [
+               "龷",
+               "虫",
+               "臼",
+               "{冓上}",
+               "{畏下}",
+               "{龍右}",
+               "{華中}"
+            ],
+            "code": "Nk",
+            "description": "",
+            "classify": "通"
+         },
+         {
+            "zigens": [
+               "月",
+               "卩",
+               "㔾"
+            ],
+            "code": "Od",
+            "description": "",
+            "classify": "通"
+         },
+         {
+            "zigens": [
+               "白",
+               "上",
+               "ㄩ",
+               "戊",
+               "屮",
+               "{发左}",
+               "丩",
+               "丱"
+            ],
+            "code": "Oe",
+            "description": "",
+            "classify": "通"
+         },
+         {
+            "zigens": [
+               "戈",
+               "冖",
+               "弓"
+            ],
+            "code": "Of",
+            "description": "",
+            "classify": "通"
+         },
+         {
+            "zigens": [
+               "丄",
+               "馬",
+               "{丄丶}"
+            ],
+            "code": "Oi",
+            "description": "",
+            "classify": "通"
+         },
+         {
+            "zigens": [
+               "⺈",
+               "夕",
+               "{炙上}",
+               "辛",
+               "{阜上}",
+               "{祭上}",
+               "{奐上}"
+            ],
+            "code": "Oj",
+            "description": "",
+            "classify": "通"
+         },
+         {
+            "zigens": [
+               "見",
+               "{馬上}"
+            ],
+            "code": "Ok",
+            "description": "",
+            "classify": "通"
+         },
+         {
+            "zigens": [
+               "尤",
+               "亦",
+               "魚"
+            ],
+            "code": "Pd",
+            "description": "",
+            "classify": "通"
+         },
+         {
+            "zigens": [
+               "十"
+            ],
+            "code": "Pe",
+            "description": "",
+            "classify": "通"
+         },
+         {
+            "zigens": [
+               "大",
+               "丷",
+               "䒑",
+               "丬"
+            ],
+            "code": "Pf",
+            "description": "",
+            "classify": "通"
+         },
+         {
+            "zigens": [
+               "リ",
+               "甫"
+            ],
+            "code": "Pi",
+            "description": "",
+            "classify": "通"
+         },
+         {
+            "zigens": [
+               "向",
+               "{囟框}",
+               "{向框}"
+            ],
+            "code": "Pj",
+            "description": "",
+            "classify": "通"
+         },
+         {
+            "zigens": [
+               "尢"
+            ],
+            "code": "Pk",
+            "description": "",
+            "classify": "通"
+         },
+         {
+            "zigens": [
+               "雨",
+               "幺",
+               "由"
+            ],
+            "code": "Qd",
+            "description": "",
+            "classify": "通"
+         },
+         {
+            "zigens": [
+               "亡",
+               "申"
+            ],
+            "code": "Qe",
+            "description": "",
+            "classify": "通"
+         },
+         {
+            "zigens": [
+               "鬼",
+               "电",
+               "{贏框}"
+            ],
+            "code": "Qf",
+            "description": "",
+            "classify": "通"
+         },
+         {
+            "zigens": [
+               "龰",
+               "止",
+               "马",
+               "正"
+            ],
+            "code": "Qi",
+            "description": "",
+            "classify": "通"
+         },
+         {
+            "zigens": [
+               "夊",
+               "夊",
+               "⺁",
+               "{卑上}",
+               "{鬼左}",
+               "甶"
+            ],
+            "code": "Qj",
+            "description": "",
+            "classify": "通"
+         },
+         {
+            "zigens": [
+               "斤",
+               "齒"
+            ],
+            "code": "Qk",
+            "description": "",
+            "classify": "通"
+         },
+         {
+            "zigens": [
+               "彐",
+               "牙",
+               "肀"
+            ],
+            "code": "Rd",
+            "description": "",
+            "classify": "通"
+         },
+         {
+            "zigens": [
+               "糸",
+               "糸",
+               "三",
+               "乌"
+            ],
+            "code": "Re",
+            "description": "",
+            "classify": "通"
+         },
+         {
+            "zigens": [
+               "{兴上}",
+               "⺍",
+               "疒"
+            ],
+            "code": "Rf",
+            "description": "",
+            "classify": "通"
+         },
+         {
+            "zigens": [
+               "隹",
+               "⺌",
+               "{步下}"
+            ],
+            "code": "Ri",
+            "description": "",
+            "classify": "通"
+         },
+         {
+            "zigens": [
+               "勹",
+               "小",
+               "彳",
+               "{周框}",
+               "{微框}",
+               "隶",
+               "{鸟上}"
+            ],
+            "code": "Rj",
+            "description": "",
+            "classify": "通"
+         },
+         {
+            "zigens": [
+               "鸟",
+               "{反彐}"
+            ],
+            "code": "Rk",
+            "description": "",
+            "classify": "通"
+         },
+         {
+            "zigens": [
+               "用",
+               "酉",
+               "{即左}",
+               "虎"
+            ],
+            "code": "Sd",
+            "description": "",
+            "classify": "通"
+         },
+         {
+            "zigens": [
+               "王",
+               "手"
+            ],
+            "code": "Se",
+            "description": "",
+            "classify": "通"
+         },
+         {
+            "zigens": [
+               "艮",
+               "革"
+            ],
+            "code": "Sf",
+            "description": "",
+            "classify": "通"
+         },
+         {
+            "zigens": [
+               "囗",
+               "方",
+               "缶",
+               "虍",
+               "{虍上}"
+            ],
+            "code": "Si",
+            "description": "",
+            "classify": "通"
+         },
+         {
+            "zigens": [
+               "丿",
+               "西",
+               "龵",
+               "饣"
+            ],
+            "code": "Sj",
+            "description": "",
+            "classify": "通"
+         },
+         {
+            "zigens": [
+               "扌",
+               "寸",
+               "{于下}"
+            ],
+            "code": "Sk",
+            "description": "",
+            "classify": "通"
+         },
+         {
+            "zigens": [
+               "言"
+            ],
+            "code": "Td",
+            "description": "",
+            "classify": "通"
+         },
+         {
+            "zigens": [
+               "矢",
+               "世",
+               "巛",
+               "{鼠下}",
+               "巜"
+            ],
+            "code": "Te",
+            "description": "",
+            "classify": "通"
+         },
+         {
+            "zigens": [
+               "亠"
+            ],
+            "code": "Tf",
+            "description": "",
+            "classify": "通"
+         },
+         {
+            "zigens": [
+               "丨",
+               "至",
+               "竹",
+               "〢",
+               "〣"
+            ],
+            "code": "Ti",
+            "description": "",
+            "classify": "通"
+         },
+         {
+            "zigens": [
+               "心",
+               "{乞上}",
+               "{荒下}",
+               "{⺮右}"
+            ],
+            "code": "Tj",
+            "description": "",
+            "classify": "通"
+         },
+         {
+            "zigens": [
+               "耂",
+               "车",
+               "丂",
+               "壴",
+               "川"
+            ],
+            "code": "Tk",
+            "description": "",
+            "classify": "通"
+         },
+         {
+            "zigens": [
+               "乙",
+               "禾",
+               "廴"
+            ],
+            "code": "Ud",
+            "description": "",
+            "classify": "通"
+         },
+         {
+            "zigens": [
+               "纟",
+               "乚",
+               "士",
+               "{纟上}"
+            ],
+            "code": "Ue",
+            "description": "",
+            "classify": "通"
+         },
+         {
+            "zigens": [
+               "土",
+               "{鹿上}"
+            ],
+            "code": "Uf",
+            "description": "",
+            "classify": "通"
+         },
+         {
+            "zigens": [
+               "夫",
+               "飛"
+            ],
+            "code": "Ui",
+            "description": "",
+            "classify": "通"
+         },
+         {
+            "zigens": [
+               "习",
+               "{爲下}",
+               "鹿"
+            ],
+            "code": "Uj",
+            "description": "",
+            "classify": "通"
+         },
+         {
+            "zigens": [
+               "龶",
+               "乃",
+               "𡗗",
+               "{穀框}"
+            ],
+            "code": "Uk",
+            "description": "",
+            "classify": "通"
+         },
+         {
+            "zigens": [
+               "耳",
+               "已"
+            ],
+            "code": "Vd",
+            "description": "",
+            "classify": "通"
+         },
+         {
+            "zigens": [
+               "巴",
+               "巳"
+            ],
+            "code": "Ve",
+            "description": "",
+            "classify": "通"
+         },
+         {
+            "zigens": [
+               "干"
+            ],
+            "code": "Vf",
+            "description": "",
+            "classify": "通"
+         },
+         {
+            "zigens": [
+               "木"
+            ],
+            "code": "Vi",
+            "description": "",
+            "classify": "通"
+         },
+         {
+            "zigens": [
+               "人",
+               "立",
+               "來"
+            ],
+            "code": "Vj",
+            "description": "",
+            "classify": "通"
+         },
+         {
+            "zigens": [
+               "己",
+               "巾",
+               "朩"
+            ],
+            "code": "Vk",
+            "description": "",
+            "classify": "通"
+         },
+         {
+            "zigens": [
+               "页",
+               "禺"
+            ],
+            "code": "Wd",
+            "description": "",
+            "classify": "通"
+         },
+         {
+            "zigens": [
+               "兀",
+               "身"
+            ],
+            "code": "We",
+            "description": "",
+            "classify": "通"
+         },
+         {
+            "zigens": [
+               "{京上}",
+               "高",
+               "{亮上}",
+               "{襄上}"
+            ],
+            "code": "Wf",
+            "description": "",
+            "classify": "通"
+         },
+         {
+            "zigens": [
+               "刂",
+               "冂",
+               "自",
+               "足",
+               "{冂丶}",
+               "{雋下}"
+            ],
+            "code": "Wi",
+            "description": "",
+            "classify": "通"
+         },
+         {
+            "zigens": [
+               "亻",
+               "里",
+               "入"
+            ],
+            "code": "Wj",
+            "description": "",
+            "classify": "通"
+         },
+         {
+            "zigens": [
+               "金",
+               "ᅲ",
+               "甲",
+               "丌"
+            ],
+            "code": "Wk",
+            "description": "",
+            "classify": "通"
+         },
+         {
+            "zigens": [
+               "二",
+               "黑"
+            ],
+            "code": "Xd",
+            "description": "",
+            "classify": "通"
+         },
+         {
+            "zigens": [
+               "山",
+               "瓦"
+            ],
+            "code": "Xe",
+            "description": "",
+            "classify": "通"
+         },
+         {
+            "zigens": [
+               "⺀",
+               "冫",
+               "骨"
+            ],
+            "code": "Xf",
+            "description": "",
+            "classify": "通"
+         },
+         {
+            "zigens": [
+               "门",
+               "{五下}",
+               "咼",
+               "冎"
+            ],
+            "code": "Xi",
+            "description": "",
+            "classify": "通"
+         },
+         {
+            "zigens": [
+               "力",
+               "{二撇}",
+               "穴",
+               "彡",
+               "气",
+               "{飞右}"
+            ],
+            "code": "Xj",
+            "description": "",
+            "classify": "通"
+         },
+         {
+            "zigens": [
+               "艹",
+               "廾",
+               "亍",
+               "丑"
+            ],
+            "code": "Xk",
+            "description": "",
+            "classify": "通"
+         },
+         {
+            "zigens": [
+               "又",
+               "マ",
+               "ス",
+               "癶"
+            ],
+            "code": "Yd",
+            "description": "",
+            "classify": "通"
+         },
+         {
+            "zigens": [
+               "不",
+               "水",
+               "食"
+            ],
+            "code": "Ye",
+            "description": "",
+            "classify": "通"
+         },
+         {
+            "zigens": [
+               "氵",
+               "刀"
+            ],
+            "code": "Yf",
+            "description": "",
+            "classify": "通"
+         },
+         {
+            "zigens": [
+               "非",
+               "舟"
+            ],
+            "code": "Yi",
+            "description": "",
+            "classify": "通"
+         },
+         {
+            "zigens": [
+               "長",
+               "镸",
+               "髟"
+            ],
+            "code": "Yk",
+            "description": "",
+            "classify": "通"
+         }
+      ]
    },
    {
       "description": "门門",
