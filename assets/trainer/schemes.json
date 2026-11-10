@@ -88,6 +88,17 @@
     	"zigen_font": "./ChaiPUA-0.2.7.ttf"
     },
 	{
+		"id": "xiaoxiang2",
+    	"full_name": "潇湘（两码）",
+        "author": "荒",
+        "maintainer": "枕月",
+        "category": ["其他方案"],
+        "description": "大小码乱序",
+        "icon": "📃",
+    	"zigen_url": "./zigen/xiaoxiang-2.json",
+    	"zigen_font": "./ChaiPUA-0.2.7.ttf"
+    },
+	{
 		"id": "yueling",
 		"full_name": "月灵",
         "author": "枕月",
