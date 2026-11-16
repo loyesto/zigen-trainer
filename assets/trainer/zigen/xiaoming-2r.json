@@ -5,7 +5,7 @@
          {
             "classify" : "通",
             "code" : "ad",
-            "description" : "亥  拼音：hài  首笔：(f)",
+            "description" : "亥  拼音：hài  首笔：点 (f)",
             "zigens" : [
                "亥"
             ]
@@ -19,7 +19,7 @@
          {
             "classify" : "通",
             "code" : "ad",
-            "description" : "夭  拼音：yāo  首笔：(j)",
+            "description" : "夭  拼音：yāo  首笔：撇 (j)",
             "zigens" : [
                "夭"
             ]
@@ -33,7 +33,7 @@
          {
             "classify" : "通",
             "code" : "ae",
-            "description" : "示  拼音：shì  首笔：(k)",
+            "description" : "示  拼音：shì  首笔：横 (k)",
             "zigens" : [
                "示",
                ""
@@ -48,7 +48,7 @@
          {
             "classify" : "通",
             "code" : "af",
-            "description" : "广  拼音：guǎng  首笔：(f)",
+            "description" : "广  拼音：guǎng  首笔：点 (f)",
             "zigens" : [
                "广"
             ]
@@ -62,7 +62,7 @@
          {
             "classify" : "通",
             "code" : "ai",
-            "description" : "目  拼音：mù  首笔：点(i)",
+            "description" : "目  拼音：mù  首笔：竖 (i)",
             "zigens" : [
                "目"
             ]
@@ -76,7 +76,7 @@
          {
             "classify" : "通",
             "code" : "aj",
-            "description" : "曲  拼音：qǔ  首笔：点(i)",
+            "description" : "曲  拼音：qǔ  首笔：竖 (i)",
             "zigens" : [
                "曲"
             ]
@@ -84,7 +84,7 @@
          {
             "classify" : "通",
             "code" : "ak",
-            "description" : "  拼音：无  首笔：(k)",
+            "description" : "  拼音：无  首笔：横 (k)",
             "zigens" : [
                ""
             ]
@@ -98,7 +98,7 @@
          {
             "classify" : "通",
             "code" : "aj",
-            "description" : "犬  拼音：quǎn  首笔：(k)",
+            "description" : "犬  拼音：quǎn  首笔：横 (k)",
             "zigens" : [
                "犬"
             ]
@@ -106,7 +106,7 @@
          {
             "classify" : "通",
             "code" : "aj",
-            "description" : "  拼音：无  首笔：(j)",
+            "description" : "  拼音：无  首笔：撇 (j)",
             "zigens" : [
                ""
             ]
@@ -120,7 +120,7 @@
          {
             "classify" : "通",
             "code" : "ak",
-            "description" : "口  拼音：kǒu  首笔：点(i)",
+            "description" : "口  拼音：kǒu  首笔：竖 (i)",
             "zigens" : [
                "口"
             ]
@@ -128,7 +128,7 @@
          {
             "classify" : "通",
             "code" : "aj",
-            "description" : "〇  拼音：líng  首笔：(d)",
+            "description" : "〇  拼音：líng  首笔：顺时针折 (d)",
             "zigens" : [
                "〇"
             ]
@@ -142,7 +142,7 @@
          {
             "classify" : "通",
             "code" : "bd",
-            "description" : "鱼  拼音：yú  首笔：(j)",
+            "description" : "鱼  拼音：yú  首笔：撇 (j)",
             "zigens" : [
                "鱼"
             ]
@@ -156,7 +156,7 @@
          {
             "classify" : "通",
             "code" : "be",
-            "description" : "石  拼音：shí  首笔：(k)",
+            "description" : "石  拼音：shí  首笔：横 (k)",
             "zigens" : [
                "石"
             ]
@@ -170,7 +170,7 @@
          {
             "classify" : "通",
             "code" : "bi",
-            "description" : "皿  拼音：mǐn  首笔：点(i)",
+            "description" : "皿  拼音：mǐn  首笔：竖 (i)",
             "zigens" : [
                "皿",
                "罒"
@@ -185,7 +185,7 @@
          {
             "classify" : "通",
             "code" : "bi",
-            "description" : "爪  拼音：zhǎo  首笔：(j)",
+            "description" : "爪  拼音：zhǎo  首笔：撇 (j)",
             "zigens" : [
                "爪"
             ]
@@ -193,7 +193,7 @@
          {
             "classify" : "通",
             "code" : "bf",
-            "description" : "瓜  拼音：guā  首笔：(j)",
+            "description" : "瓜  拼音：guā  首笔：撇 (j)",
             "zigens" : [
                "瓜"
             ]
@@ -207,7 +207,7 @@
          {
             "classify" : "通",
             "code" : "bj",
-            "description" : "且  拼音：qiě  首笔：点(i)",
+            "description" : "且  拼音：qiě  首笔：竖 (i)",
             "zigens" : [
                "且"
             ]
@@ -215,7 +215,7 @@
          {
             "classify" : "通",
             "code" : "bi",
-            "description" : "  拼音：无  首笔：点(i)",
+            "description" : "  拼音：无  首笔：竖 (i)",
             "zigens" : [
                ""
             ]
@@ -229,7 +229,7 @@
          {
             "classify" : "通",
             "code" : "bj",
-            "description" : "七  拼音：qī  首笔：(k)",
+            "description" : "七  拼音：qī  首笔：横 (k)",
             "zigens" : [
                "七",
                ""
@@ -238,7 +238,7 @@
          {
             "classify" : "通",
             "code" : "bd",
-            "description" : "弋  拼音：yì  首笔：(k)",
+            "description" : "弋  拼音：yì  首笔：横 (k)",
             "zigens" : [
                "弋"
             ]
@@ -252,7 +252,7 @@
          {
             "classify" : "通",
             "code" : "bk",
-            "description" : "冊  拼音：cè  首笔：点(i)",
+            "description" : "冊  拼音：cè  首笔：竖 (i)",
             "zigens" : [
                "冊",
                ""
@@ -267,7 +267,7 @@
          {
             "classify" : "繁",
             "code" : "bk",
-            "description" : "鳥  拼音：niǎo  首笔：(j)",
+            "description" : "鳥  拼音：niǎo  首笔：撇 (j)",
             "zigens" : [
                "鳥"
             ]
@@ -275,7 +275,7 @@
          {
             "classify" : "通",
             "code" : "bj",
-            "description" : "  拼音：无  首笔：(j)",
+            "description" : "  拼音：无  首笔：撇 (j)",
             "zigens" : [
                ""
             ]
@@ -283,7 +283,7 @@
          {
             "classify" : "通",
             "code" : "be",
-            "description" : "烏  拼音：wū  首笔：(j)",
+            "description" : "烏  拼音：wū  首笔：撇 (j)",
             "zigens" : [
                "烏"
             ]
@@ -291,7 +291,7 @@
          {
             "classify" : "通",
             "code" : "bj",
-            "description" : "  拼音：无  首笔：(j)",
+            "description" : "  拼音：无  首笔：撇 (j)",
             "zigens" : [
                ""
             ]
@@ -305,7 +305,7 @@
          {
             "classify" : "通",
             "code" : "bk",
-            "description" : "匚  拼音：无  首笔：(k)",
+            "description" : "匚  拼音：无  首笔：横 (k)",
             "zigens" : [
                "匚",
                ""
@@ -320,7 +320,7 @@
          {
             "classify" : "通",
             "code" : "bk",
-            "description" : "厂  拼音：chǎng  首笔：(k)",
+            "description" : "厂  拼音：chǎng  首笔：横 (k)",
             "zigens" : [
                "厂",
                "丆"
@@ -335,7 +335,7 @@
          {
             "classify" : "通",
             "code" : "cd",
-            "description" : "火  拼音：huǒ  首笔：(f)",
+            "description" : "火  拼音：huǒ  首笔：点 (f)",
             "zigens" : [
                "火"
             ]
@@ -349,7 +349,7 @@
          {
             "classify" : "繁",
             "code" : "ce",
-            "description" : "貝  拼音：bèi  首笔：点(i)",
+            "description" : "貝  拼音：bèi  首笔：竖 (i)",
             "zigens" : [
                "貝"
             ]
@@ -363,7 +363,7 @@
          {
             "classify" : "通",
             "code" : "cf",
-            "description" : "田  拼音：tián  首笔：点(i)",
+            "description" : "田  拼音：tián  首笔：竖 (i)",
             "zigens" : [
                "田"
             ]
@@ -377,7 +377,7 @@
          {
             "classify" : "通",
             "code" : "ci",
-            "description" : "麻  拼音：má  首笔：(f)",
+            "description" : "麻  拼音：má  首笔：点 (f)",
             "zigens" : [
                "麻"
             ]
@@ -391,7 +391,7 @@
          {
             "classify" : "通",
             "code" : "ci",
-            "description" : "卯  拼音：mǎo  首笔：(j)",
+            "description" : "卯  拼音：mǎo  首笔：撇 (j)",
             "zigens" : [
                "卯",
                ""
@@ -400,7 +400,7 @@
          {
             "classify" : "通",
             "code" : "cj",
-            "description" : "  拼音：无  首笔：(j)",
+            "description" : "  拼音：无  首笔：撇 (j)",
             "zigens" : [
                "",
                "",
@@ -417,7 +417,7 @@
          {
             "classify" : "通",
             "code" : "ci",
-            "description" : "走  拼音：zǒu  首笔：(k)",
+            "description" : "走  拼音：zǒu  首笔：横 (k)",
             "zigens" : [
                "走"
             ]
@@ -431,7 +431,7 @@
          {
             "classify" : "通",
             "code" : "cj",
-            "description" : "皮  拼音：pí  首笔：(d)",
+            "description" : "皮  拼音：pí  首笔：顺时针折 (d)",
             "zigens" : [
                "皮"
             ]
@@ -445,7 +445,7 @@
          {
             "classify" : "通",
             "code" : "cj",
-            "description" : "片  拼音：piàn  首笔：(j)",
+            "description" : "片  拼音：piàn  首笔：撇 (j)",
             "zigens" : [
                "片"
             ]
@@ -453,7 +453,7 @@
          {
             "classify" : "通",
             "code" : "cj",
-            "description" : "爿  拼音：pán  首笔：撇(e)",
+            "description" : "爿  拼音：pán  首笔：逆时针折 (e)",
             "zigens" : [
                "爿"
             ]
@@ -467,7 +467,7 @@
          {
             "classify" : "通",
             "code" : "ck",
-            "description" : "女  拼音：nǚ  首笔：撇(e)",
+            "description" : "女  拼音：nǚ  首笔：逆时针折 (e)",
             "zigens" : [
                "女"
             ]
@@ -481,7 +481,7 @@
          {
             "classify" : "简",
             "code" : "ck",
-            "description" : "长  拼音：cháng  首笔：(j)",
+            "description" : "长  拼音：cháng  首笔：撇 (j)",
             "zigens" : [
                "长"
             ]
@@ -495,7 +495,7 @@
          {
             "classify" : "通",
             "code" : "gd",
-            "description" : "儿  拼音：ér  首笔：(j)",
+            "description" : "儿  拼音：ér  首笔：撇 (j)",
             "zigens" : [
                "儿",
                ""
@@ -510,7 +510,7 @@
          {
             "classify" : "通",
             "code" : "gd",
-            "description" : "而  拼音：ér  首笔：(k)",
+            "description" : "而  拼音：ér  首笔：横 (k)",
             "zigens" : [
                "而"
             ]
@@ -518,7 +518,7 @@
          {
             "classify" : "通",
             "code" : "gi",
-            "description" : "面  拼音：miàn  首笔：(k)",
+            "description" : "面  拼音：miàn  首笔：横 (k)",
             "zigens" : [
                "面"
             ]
@@ -532,7 +532,7 @@
          {
             "classify" : "通",
             "code" : "ge",
-            "description" : "贝  拼音：bèi  首笔：点(i)",
+            "description" : "贝  拼音：bèi  首笔：竖 (i)",
             "zigens" : [
                "贝"
             ]
@@ -546,7 +546,7 @@
          {
             "classify" : "通",
             "code" : "gf",
-            "description" : "工  拼音：gōng  首笔：(k)",
+            "description" : "工  拼音：gōng  首笔：横 (k)",
             "zigens" : [
                "工"
             ]
@@ -560,7 +560,7 @@
          {
             "classify" : "通",
             "code" : "gi",
-            "description" : "早  拼音：zǎo  首笔：点(i)",
+            "description" : "早  拼音：zǎo  首笔：竖 (i)",
             "zigens" : [
                "早"
             ]
@@ -574,7 +574,7 @@
          {
             "classify" : "通",
             "code" : "gi",
-            "description" : "豸  拼音：zhì  首笔：(j)",
+            "description" : "豸  拼音：zhì  首笔：撇 (j)",
             "zigens" : [
                "豸"
             ]
@@ -588,7 +588,7 @@
          {
             "classify" : "通",
             "code" : "gj",
-            "description" : "了  拼音：le  首笔：(d)",
+            "description" : "了  拼音：le  首笔：顺时针折 (d)",
             "zigens" : [
                "了"
             ]
@@ -596,7 +596,7 @@
          {
             "classify" : "通",
             "code" : "gi",
-            "description" : "子  拼音：zǐ  首笔：(d)",
+            "description" : "子  拼音：zǐ  首笔：顺时针折 (d)",
             "zigens" : [
                "子"
             ]
@@ -604,7 +604,7 @@
          {
             "classify" : "通",
             "code" : "gk",
-            "description" : "孑  拼音：jié  首笔：(d)",
+            "description" : "孑  拼音：jié  首笔：顺时针折 (d)",
             "zigens" : [
                "孑"
             ]
@@ -612,7 +612,7 @@
          {
             "classify" : "通",
             "code" : "gd",
-            "description" : "予  拼音：yǔ  首笔：(d)",
+            "description" : "予  拼音：yǔ  首笔：顺时针折 (d)",
             "zigens" : [
                "予"
             ]
@@ -626,7 +626,7 @@
          {
             "classify" : "通",
             "code" : "gj",
-            "description" : "日  拼音：rì  首笔：点(i)",
+            "description" : "日  拼音：rì  首笔：竖 (i)",
             "zigens" : [
                "日"
             ]
@@ -634,7 +634,7 @@
          {
             "classify" : "通",
             "code" : "gd",
-            "description" : "曰  拼音：yuē  首笔：点(i)",
+            "description" : "曰  拼音：yuē  首笔：竖 (i)",
             "zigens" : [
                "曰"
             ]
@@ -642,7 +642,7 @@
          {
             "classify" : "通",
             "code" : "gi",
-            "description" : "  拼音：无  首笔：点(i)",
+            "description" : "  拼音：无  首笔：竖 (i)",
             "zigens" : [
                "",
                ""
@@ -657,7 +657,7 @@
          {
             "classify" : "通",
             "code" : "gk",
-            "description" : "见  拼音：jiàn  首笔：点(i)",
+            "description" : "见  拼音：jiàn  首笔：竖 (i)",
             "zigens" : [
                "见"
             ]
@@ -671,7 +671,7 @@
          {
             "classify" : "通",
             "code" : "gk",
-            "description" : "牛  拼音：niú  首笔：(j)",
+            "description" : "牛  拼音：niú  首笔：撇 (j)",
             "zigens" : [
                "牛"
             ]
@@ -679,7 +679,7 @@
          {
             "classify" : "通",
             "code" : "gj",
-            "description" : "  拼音：无  首笔：(j)",
+            "description" : "  拼音：无  首笔：撇 (j)",
             "zigens" : [
                ""
             ]
@@ -687,7 +687,7 @@
          {
             "classify" : "通",
             "code" : "ge",
-            "description" : "生  拼音：shēng  首笔：(j)",
+            "description" : "生  拼音：shēng  首笔：撇 (j)",
             "zigens" : [
                "生"
             ]
@@ -701,7 +701,7 @@
          {
             "classify" : "通",
             "code" : "gk",
-            "description" : "  拼音：无  首笔：(k)",
+            "description" : "  拼音：无  首笔：横 (k)",
             "zigens" : [
                ""
             ]
@@ -715,7 +715,7 @@
          {
             "classify" : "通",
             "code" : "gk",
-            "description" : "  拼音：无  首笔：(k)",
+            "description" : "  拼音：无  首笔：横 (k)",
             "zigens" : [
                "",
                ""
@@ -730,7 +730,7 @@
          {
             "classify" : "通",
             "code" : "hd",
-            "description" : "  拼音：无  首笔：(d)",
+            "description" : "  拼音：无  首笔：顺时针折 (d)",
             "zigens" : [
                "",
                ""
@@ -745,7 +745,7 @@
          {
             "classify" : "通",
             "code" : "hd",
-            "description" : "户  拼音：hù  首笔：(f)",
+            "description" : "户  拼音：hù  首笔：点 (f)",
             "zigens" : [
                "户"
             ]
@@ -753,7 +753,7 @@
          {
             "classify" : "通",
             "code" : "hd",
-            "description" : "戶  拼音：hù  首笔：(j)",
+            "description" : "戶  拼音：hù  首笔：撇 (j)",
             "zigens" : [
                "戶"
             ]
@@ -761,7 +761,7 @@
          {
             "classify" : "通",
             "code" : "hd",
-            "description" : "戸  拼音：hù  首笔：(k)",
+            "description" : "戸  拼音：hù  首笔：横 (k)",
             "zigens" : [
                "戸"
             ]
@@ -775,7 +775,7 @@
          {
             "classify" : "通",
             "code" : "hd",
-            "description" : "一  拼音：yī  首笔：(k)",
+            "description" : "一  拼音：yī  首笔：横 (k)",
             "zigens" : [
                "一"
             ]
@@ -789,7 +789,7 @@
          {
             "classify" : "通",
             "code" : "he",
-            "description" : "匕  拼音：bǐ  首笔：(j)",
+            "description" : "匕  拼音：bǐ  首笔：撇 (j)",
             "zigens" : [
                "匕",
                ""
@@ -804,7 +804,7 @@
          {
             "classify" : "通",
             "code" : "hf",
-            "description" : "  拼音：无  首笔：(f)",
+            "description" : "  拼音：无  首笔：点 (f)",
             "zigens" : [
                ""
             ]
@@ -818,7 +818,7 @@
          {
             "classify" : "通",
             "code" : "hi",
-            "description" : "之  拼音：zhī  首笔：(f)",
+            "description" : "之  拼音：zhī  首笔：点 (f)",
             "zigens" : [
                "之"
             ]
@@ -826,7 +826,7 @@
          {
             "classify" : "通",
             "code" : "hf",
-            "description" : "辶  拼音：无  首笔：(f)",
+            "description" : "辶  拼音：无  首笔：点 (f)",
             "zigens" : [
                "辶",
                "⻍"
@@ -841,7 +841,7 @@
          {
             "classify" : "繁",
             "code" : "hi",
-            "description" : "  拼音：无  首笔：点(i)",
+            "description" : "  拼音：无  首笔：竖 (i)",
             "zigens" : [
                "",
                "",
@@ -857,7 +857,7 @@
          {
             "classify" : "繁",
             "code" : "hi",
-            "description" : "門  拼音：mén  首笔：点(i)",
+            "description" : "門  拼音：mén  首笔：竖 (i)",
             "zigens" : [
                "門"
             ]
@@ -865,7 +865,7 @@
          {
             "classify" : "通",
             "code" : "hf",
-            "description" : "鬥  拼音：dòu  首笔：点(i)",
+            "description" : "鬥  拼音：dòu  首笔：竖 (i)",
             "zigens" : [
                "鬥"
             ]
@@ -879,7 +879,7 @@
          {
             "classify" : "通",
             "code" : "hj",
-            "description" : "千  拼音：qiān  首笔：(j)",
+            "description" : "千  拼音：qiān  首笔：撇 (j)",
             "zigens" : [
                "千",
                ""
@@ -894,7 +894,7 @@
          {
             "classify" : "通",
             "code" : "hk",
-            "description" : "几  拼音：jǐ  首笔：(j)",
+            "description" : "几  拼音：jǐ  首笔：撇 (j)",
             "zigens" : [
                "几"
             ]
@@ -902,7 +902,7 @@
          {
             "classify" : "通",
             "code" : "he",
-            "description" : "殳  拼音：shū  首笔：(j)",
+            "description" : "殳  拼音：shū  首笔：撇 (j)",
             "zigens" : [
                "殳"
             ]
@@ -910,7 +910,7 @@
          {
             "classify" : "通",
             "code" : "hi",
-            "description" : "風  拼音：fēng  首笔：(j)",
+            "description" : "風  拼音：fēng  首笔：撇 (j)",
             "zigens" : [
                "風"
             ]
@@ -924,7 +924,7 @@
          {
             "classify" : "通",
             "code" : "hk",
-            "description" : "臣  拼音：chén  首笔：(k)",
+            "description" : "臣  拼音：chén  首笔：横 (k)",
             "zigens" : [
                "臣",
                "",
@@ -940,7 +940,7 @@
          {
             "classify" : "通",
             "code" : "ld",
-            "description" : "也  拼音：yě  首笔：(d)",
+            "description" : "也  拼音：yě  首笔：顺时针折 (d)",
             "zigens" : [
                "也"
             ]
@@ -948,7 +948,7 @@
          {
             "classify" : "通",
             "code" : "li",
-            "description" : "乜  拼音：miē  首笔：(d)",
+            "description" : "乜  拼音：miē  首笔：顺时针折 (d)",
             "zigens" : [
                "乜"
             ]
@@ -962,7 +962,7 @@
          {
             "classify" : "通",
             "code" : "ld",
-            "description" : "  拼音：无  首笔：(d)",
+            "description" : "  拼音：无  首笔：顺时针折 (d)",
             "zigens" : [
                ""
             ]
@@ -976,7 +976,7 @@
          {
             "classify" : "通",
             "code" : "ld",
-            "description" : "乂  拼音：yì  首笔：(j)",
+            "description" : "乂  拼音：yì  首笔：撇 (j)",
             "zigens" : [
                "乂"
             ]
@@ -984,7 +984,7 @@
          {
             "classify" : "通",
             "code" : "lj",
-            "description" : "  拼音：无  首笔：(j)",
+            "description" : "  拼音：无  首笔：撇 (j)",
             "zigens" : [
                ""
             ]
@@ -998,7 +998,7 @@
          {
             "classify" : "通",
             "code" : "le",
-            "description" : "厶  拼音：无  首笔：撇(e)",
+            "description" : "厶  拼音：无  首笔：逆时针折 (e)",
             "zigens" : [
                "厶"
             ]
@@ -1012,7 +1012,7 @@
          {
             "classify" : "通",
             "code" : "le",
-            "description" : "舌  拼音：shé  首笔：(j)",
+            "description" : "舌  拼音：shé  首笔：撇 (j)",
             "zigens" : [
                "舌"
             ]
@@ -1026,7 +1026,7 @@
          {
             "classify" : "通",
             "code" : "le",
-            "description" : "未  拼音：wèi  首笔：(k)",
+            "description" : "未  拼音：wèi  首笔：横 (k)",
             "zigens" : [
                "未"
             ]
@@ -1034,7 +1034,7 @@
          {
             "classify" : "通",
             "code" : "li",
-            "description" : "末  拼音：mò  首笔：(k)",
+            "description" : "末  拼音：mò  首笔：横 (k)",
             "zigens" : [
                "末"
             ]
@@ -1048,7 +1048,7 @@
          {
             "classify" : "通",
             "code" : "lf",
-            "description" : "丶  拼音：无  首笔：(f)",
+            "description" : "丶  拼音：无  首笔：点 (f)",
             "zigens" : [
                "丶",
                "乀"
@@ -1063,7 +1063,7 @@
          {
             "classify" : "通",
             "code" : "lf",
-            "description" : "宀  拼音：无  首笔：(f)",
+            "description" : "宀  拼音：无  首笔：点 (f)",
             "zigens" : [
                "宀"
             ]
@@ -1077,7 +1077,7 @@
          {
             "classify" : "通",
             "code" : "lj",
-            "description" : "壬  拼音：rén  首笔：(j)",
+            "description" : "壬  拼音：rén  首笔：撇 (j)",
             "zigens" : [
                "壬"
             ]
@@ -1091,7 +1091,7 @@
          {
             "classify" : "通",
             "code" : "lj",
-            "description" : "其  拼音：qí  首笔：(k)",
+            "description" : "其  拼音：qí  首笔：横 (k)",
             "zigens" : [
                "其"
             ]
@@ -1105,7 +1105,7 @@
          {
             "classify" : "通",
             "code" : "lk",
-            "description" : "辰  拼音：chén  首笔：(k)",
+            "description" : "辰  拼音：chén  首笔：横 (k)",
             "zigens" : [
                "辰"
             ]
@@ -1119,7 +1119,7 @@
          {
             "classify" : "通",
             "code" : "md",
-            "description" : "合  拼音：hé  首笔：(j)",
+            "description" : "合  拼音：hé  首笔：撇 (j)",
             "zigens" : [
                "合"
             ]
@@ -1127,7 +1127,7 @@
          {
             "classify" : "通",
             "code" : "mj",
-            "description" : "  拼音：无  首笔：(j)",
+            "description" : "  拼音：无  首笔：撇 (j)",
             "zigens" : [
                "",
                "僉",
@@ -1143,7 +1143,7 @@
          {
             "classify" : "繁",
             "code" : "md",
-            "description" : "頁  拼音：yè  首笔：(k)",
+            "description" : "頁  拼音：yè  首笔：横 (k)",
             "zigens" : [
                "頁"
             ]
@@ -1157,7 +1157,7 @@
          {
             "classify" : "通",
             "code" : "me",
-            "description" : "尚  拼音：shàng  首笔：点(i)",
+            "description" : "尚  拼音：shàng  首笔：竖 (i)",
             "zigens" : [
                "尚"
             ]
@@ -1165,7 +1165,7 @@
          {
             "classify" : "通",
             "code" : "mi",
-            "description" : "  拼音：无  首笔：点(i)",
+            "description" : "  拼音：无  首笔：竖 (i)",
             "zigens" : [
                ""
             ]
@@ -1179,7 +1179,7 @@
          {
             "classify" : "通",
             "code" : "me",
-            "description" : "八  拼音：bā  首笔：(j)",
+            "description" : "八  拼音：bā  首笔：撇 (j)",
             "zigens" : [
                "八"
             ]
@@ -1187,7 +1187,7 @@
          {
             "classify" : "通",
             "code" : "mj",
-            "description" : "  拼音：无  首笔：(j)",
+            "description" : "  拼音：无  首笔：撇 (j)",
             "zigens" : [
                ""
             ]
@@ -1201,7 +1201,7 @@
          {
             "classify" : "通",
             "code" : "me",
-            "description" : "豕  拼音：shǐ  首笔：(k)",
+            "description" : "豕  拼音：shǐ  首笔：横 (k)",
             "zigens" : [
                "豕"
             ]
@@ -1209,7 +1209,7 @@
          {
             "classify" : "通",
             "code" : "mj",
-            "description" : "  拼音：无  首笔：(j)",
+            "description" : "  拼音：无  首笔：撇 (j)",
             "zigens" : [
                ""
             ]
@@ -1223,7 +1223,7 @@
          {
             "classify" : "通",
             "code" : "mf",
-            "description" : "灬  拼音：无  首笔：(f)",
+            "description" : "灬  拼音：无  首笔：点 (f)",
             "zigens" : [
                "灬"
             ]
@@ -1237,7 +1237,7 @@
          {
             "classify" : "通",
             "code" : "mf",
-            "description" : "  拼音：无  首笔：(f)",
+            "description" : "  拼音：无  首笔：点 (f)",
             "zigens" : [
                ""
             ]
@@ -1251,7 +1251,7 @@
          {
             "classify" : "通",
             "code" : "mf",
-            "description" : "丁  拼音：dīng  首笔：(k)",
+            "description" : "丁  拼音：dīng  首笔：横 (k)",
             "zigens" : [
                "丁"
             ]
@@ -1259,7 +1259,7 @@
          {
             "classify" : "通",
             "code" : "mk",
-            "description" : "丅  拼音：无  首笔：(k)",
+            "description" : "丅  拼音：无  首笔：横 (k)",
             "zigens" : [
                "丅"
             ]
@@ -1267,7 +1267,7 @@
          {
             "classify" : "通",
             "code" : "mj",
-            "description" : "下  拼音：xià  首笔：(k)",
+            "description" : "下  拼音：xià  首笔：横 (k)",
             "zigens" : [
                "下"
             ]
@@ -1275,7 +1275,7 @@
          {
             "classify" : "通",
             "code" : "mi",
-            "description" : "  拼音：无  首笔：点(i)",
+            "description" : "  拼音：无  首笔：竖 (i)",
             "zigens" : [
                ""
             ]
@@ -1289,7 +1289,7 @@
          {
             "classify" : "通",
             "code" : "mi",
-            "description" : "母  拼音：mǔ  首笔：撇(e)",
+            "description" : "母  拼音：mǔ  首笔：逆时针折 (e)",
             "zigens" : [
                "母"
             ]
@@ -1297,7 +1297,7 @@
          {
             "classify" : "通",
             "code" : "me",
-            "description" : "  拼音：无  首笔：撇(e)",
+            "description" : "  拼音：无  首笔：逆时针折 (e)",
             "zigens" : [
                "",
                "彑",
@@ -1313,7 +1313,7 @@
          {
             "classify" : "通",
             "code" : "mi",
-            "description" : "米  拼音：mǐ  首笔：(f)",
+            "description" : "米  拼音：mǐ  首笔：点 (f)",
             "zigens" : [
                "米"
             ]
@@ -1327,7 +1327,7 @@
          {
             "classify" : "通",
             "code" : "mk",
-            "description" : "九  拼音：jiǔ  首笔：(j)",
+            "description" : "九  拼音：jiǔ  首笔：撇 (j)",
             "zigens" : [
                "九"
             ]
@@ -1341,7 +1341,7 @@
          {
             "classify" : "繁",
             "code" : "mk",
-            "description" : "車  拼音：chē  首笔：(k)",
+            "description" : "車  拼音：chē  首笔：横 (k)",
             "zigens" : [
                "車",
                "",
@@ -1357,7 +1357,7 @@
          {
             "classify" : "通",
             "code" : "nd",
-            "description" : "羊  拼音：yáng  首笔：(f)",
+            "description" : "羊  拼音：yáng  首笔：点 (f)",
             "zigens" : [
                "羊"
             ]
@@ -1365,7 +1365,7 @@
          {
             "classify" : "通",
             "code" : "nf",
-            "description" : "  拼音：无  首笔：(f)",
+            "description" : "  拼音：无  首笔：点 (f)",
             "zigens" : [
                "",
                "",
@@ -1381,7 +1381,7 @@
          {
             "classify" : "通",
             "code" : "nd",
-            "description" : "业  拼音：yè  首笔：点(i)",
+            "description" : "业  拼音：yè  首笔：竖 (i)",
             "zigens" : [
                "业"
             ]
@@ -1395,7 +1395,7 @@
          {
             "classify" : "通",
             "code" : "ne",
-            "description" : "尸  拼音：shī  首笔：(d)",
+            "description" : "尸  拼音：shī  首笔：顺时针折 (d)",
             "zigens" : [
                "尸",
                ""
@@ -1404,7 +1404,7 @@
          {
             "classify" : "通",
             "code" : "nd",
-            "description" : "  拼音：无  首笔：(d)",
+            "description" : "  拼音：无  首笔：顺时针折 (d)",
             "zigens" : [
                ""
             ]
@@ -1418,7 +1418,7 @@
          {
             "classify" : "通",
             "code" : "ne",
-            "description" : "文  拼音：wén  首笔：(f)",
+            "description" : "文  拼音：wén  首笔：点 (f)",
             "zigens" : [
                "文"
             ]
@@ -1432,7 +1432,7 @@
          {
             "classify" : "通",
             "code" : "ne",
-            "description" : "卜  拼音：bo  首笔：点(i)",
+            "description" : "卜  拼音：bo  首笔：竖 (i)",
             "zigens" : [
                "卜"
             ]
@@ -1440,7 +1440,7 @@
          {
             "classify" : "通",
             "code" : "ni",
-            "description" : "  拼音：无  首笔：点(i)",
+            "description" : "  拼音：无  首笔：竖 (i)",
             "zigens" : [
                "",
                ""
@@ -1449,7 +1449,7 @@
          {
             "classify" : "通",
             "code" : "nk",
-            "description" : "  拼音：无  首笔：(k)",
+            "description" : "  拼音：无  首笔：横 (k)",
             "zigens" : [
                ""
             ]
@@ -1457,7 +1457,7 @@
          {
             "classify" : "通",
             "code" : "nj",
-            "description" : "鹵  拼音：lǔ  首笔：点(i)",
+            "description" : "鹵  拼音：lǔ  首笔：竖 (i)",
             "zigens" : [
                "鹵"
             ]
@@ -1471,7 +1471,7 @@
          {
             "classify" : "通",
             "code" : "ne",
-            "description" : "卅  拼音：sà  首笔：(k)",
+            "description" : "卅  拼音：sà  首笔：横 (k)",
             "zigens" : [
                "卅"
             ]
@@ -1479,7 +1479,7 @@
          {
             "classify" : "通",
             "code" : "nj",
-            "description" : "卌  拼音：xì  首笔：(k)",
+            "description" : "卌  拼音：xì  首笔：横 (k)",
             "zigens" : [
                "卌"
             ]
@@ -1487,7 +1487,7 @@
          {
             "classify" : "通",
             "code" : "nk",
-            "description" : "  拼音：无  首笔：(k)",
+            "description" : "  拼音：无  首笔：横 (k)",
             "zigens" : [
                "",
                "",
@@ -1503,7 +1503,7 @@
          {
             "classify" : "通",
             "code" : "nf",
-            "description" : "  拼音：无  首笔：(f)",
+            "description" : "  拼音：无  首笔：点 (f)",
             "zigens" : [
                ""
             ]
@@ -1511,7 +1511,7 @@
          {
             "classify" : "通",
             "code" : "nj",
-            "description" : "  拼音：无  首笔：(j)",
+            "description" : "  拼音：无  首笔：撇 (j)",
             "zigens" : [
                "",
                ""
@@ -1520,7 +1520,7 @@
          {
             "classify" : "通",
             "code" : "nk",
-            "description" : "  拼音：无  首笔：(k)",
+            "description" : "  拼音：无  首笔：横 (k)",
             "zigens" : [
                ""
             ]
@@ -1534,7 +1534,7 @@
          {
             "classify" : "通",
             "code" : "nf",
-            "description" : "古  拼音：gǔ  首笔：(k)",
+            "description" : "古  拼音：gǔ  首笔：横 (k)",
             "zigens" : [
                "古"
             ]
@@ -1548,7 +1548,7 @@
          {
             "classify" : "通",
             "code" : "ni",
-            "description" : "毛  拼音：máo  首笔：(j)",
+            "description" : "毛  拼音：máo  首笔：撇 (j)",
             "zigens" : [
                "毛"
             ]
@@ -1562,7 +1562,7 @@
          {
             "classify" : "通",
             "code" : "ni",
-            "description" : "丰  拼音：fēng  首笔：(k)",
+            "description" : "丰  拼音：fēng  首笔：横 (k)",
             "zigens" : [
                "丰"
             ]
@@ -1576,7 +1576,7 @@
          {
             "classify" : "通",
             "code" : "nj",
-            "description" : "欠  拼音：qiàn  首笔：(j)",
+            "description" : "欠  拼音：qiàn  首笔：撇 (j)",
             "zigens" : [
                "欠"
             ]
@@ -1590,7 +1590,7 @@
          {
             "classify" : "简",
             "code" : "nj",
-            "description" : "  拼音：无  首笔：(j)",
+            "description" : "  拼音：无  首笔：撇 (j)",
             "zigens" : [
                ""
             ]
@@ -1604,7 +1604,7 @@
          {
             "classify" : "通",
             "code" : "nk",
-            "description" : "虫  拼音：chóng  首笔：点(i)",
+            "description" : "虫  拼音：chóng  首笔：竖 (i)",
             "zigens" : [
                "虫"
             ]
@@ -1618,7 +1618,7 @@
          {
             "classify" : "通",
             "code" : "nk",
-            "description" : "臼  拼音：jiù  首笔：(j)",
+            "description" : "臼  拼音：jiù  首笔：撇 (j)",
             "zigens" : [
                "臼"
             ]
@@ -1626,7 +1626,7 @@
          {
             "classify" : "通",
             "code" : "nj",
-            "description" : "  拼音：无  首笔：(j)",
+            "description" : "  拼音：无  首笔：撇 (j)",
             "zigens" : [
                ""
             ]
@@ -1640,7 +1640,7 @@
          {
             "classify" : "通",
             "code" : "od",
-            "description" : "㔾  拼音：无  首笔：(d)",
+            "description" : "㔾  拼音：无  首笔：顺时针折 (d)",
             "zigens" : [
                "㔾",
                "卩",
@@ -1656,7 +1656,7 @@
          {
             "classify" : "通",
             "code" : "od",
-            "description" : "月  拼音：yuè  首笔：(j)",
+            "description" : "月  拼音：yuè  首笔：撇 (j)",
             "zigens" : [
                "月"
             ]
@@ -1664,7 +1664,7 @@
          {
             "classify" : "通",
             "code" : "oj",
-            "description" : "  拼音：无  首笔：(j)",
+            "description" : "  拼音：无  首笔：撇 (j)",
             "zigens" : [
                "",
                ""
@@ -1679,7 +1679,7 @@
          {
             "classify" : "通",
             "code" : "oe",
-            "description" : "凵  拼音：无  首笔：撇(e)",
+            "description" : "凵  拼音：无  首笔：逆时针折 (e)",
             "zigens" : [
                "凵",
                "丩",
@@ -1697,7 +1697,7 @@
          {
             "classify" : "通",
             "code" : "oe",
-            "description" : "上  拼音：shàng  首笔：点(i)",
+            "description" : "上  拼音：shàng  首笔：竖 (i)",
             "zigens" : [
                "上"
             ]
@@ -1705,7 +1705,7 @@
          {
             "classify" : "通",
             "code" : "oi",
-            "description" : "丄  拼音：无  首笔：点(i)",
+            "description" : "丄  拼音：无  首笔：竖 (i)",
             "zigens" : [
                "丄",
                ""
@@ -1720,7 +1720,7 @@
          {
             "classify" : "通",
             "code" : "oe",
-            "description" : "白  拼音：bái  首笔：(j)",
+            "description" : "白  拼音：bái  首笔：撇 (j)",
             "zigens" : [
                "白"
             ]
@@ -1728,7 +1728,7 @@
          {
             "classify" : "通",
             "code" : "oj",
-            "description" : "  拼音：无  首笔：(j)",
+            "description" : "  拼音：无  首笔：撇 (j)",
             "zigens" : [
                ""
             ]
@@ -1742,7 +1742,7 @@
          {
             "classify" : "通",
             "code" : "of",
-            "description" : "弓  拼音：gōng  首笔：(d)",
+            "description" : "弓  拼音：gōng  首笔：顺时针折 (d)",
             "zigens" : [
                "弓"
             ]
@@ -1756,7 +1756,7 @@
          {
             "classify" : "通",
             "code" : "of",
-            "description" : "冖  拼音：无  首笔：(f)",
+            "description" : "冖  拼音：无  首笔：点 (f)",
             "zigens" : [
                "冖"
             ]
@@ -1764,7 +1764,7 @@
          {
             "classify" : "通",
             "code" : "oj",
-            "description" : "  拼音：无  首笔：(j)",
+            "description" : "  拼音：无  首笔：撇 (j)",
             "zigens" : [
                "",
                ""
@@ -1779,7 +1779,7 @@
          {
             "classify" : "通",
             "code" : "of",
-            "description" : "戈  拼音：gē  首笔：(k)",
+            "description" : "戈  拼音：gē  首笔：横 (k)",
             "zigens" : [
                "戈"
             ]
@@ -1787,7 +1787,7 @@
          {
             "classify" : "通",
             "code" : "oe",
-            "description" : "戊  拼音：wù  首笔：(k)",
+            "description" : "戊  拼音：wù  首笔：横 (k)",
             "zigens" : [
                "戊"
             ]
@@ -1801,7 +1801,7 @@
          {
             "classify" : "繁",
             "code" : "oi",
-            "description" : "馬  拼音：mǎ  首笔：(k)",
+            "description" : "馬  拼音：mǎ  首笔：横 (k)",
             "zigens" : [
                "馬"
             ]
@@ -1809,7 +1809,7 @@
          {
             "classify" : "通",
             "code" : "ok",
-            "description" : "  拼音：无  首笔：(k)",
+            "description" : "  拼音：无  首笔：横 (k)",
             "zigens" : [
                ""
             ]
@@ -1823,7 +1823,7 @@
          {
             "classify" : "通",
             "code" : "oj",
-            "description" : "辛  拼音：xīn  首笔：(f)",
+            "description" : "辛  拼音：xīn  首笔：点 (f)",
             "zigens" : [
                "辛"
             ]
@@ -1837,7 +1837,7 @@
          {
             "classify" : "通",
             "code" : "oj",
-            "description" : "夕  拼音：xī  首笔：(j)",
+            "description" : "夕  拼音：xī  首笔：撇 (j)",
             "zigens" : [
                "夕"
             ]
@@ -1851,7 +1851,7 @@
          {
             "classify" : "繁",
             "code" : "ok",
-            "description" : "見  拼音：jiàn  首笔：点(i)",
+            "description" : "見  拼音：jiàn  首笔：竖 (i)",
             "zigens" : [
                "見"
             ]
@@ -1865,7 +1865,7 @@
          {
             "classify" : "通",
             "code" : "pd",
-            "description" : "亦  拼音：yì  首笔：(f)",
+            "description" : "亦  拼音：yì  首笔：点 (f)",
             "zigens" : [
                "亦",
                ""
@@ -1880,7 +1880,7 @@
          {
             "classify" : "繁",
             "code" : "pd",
-            "description" : "魚  拼音：yú  首笔：(j)",
+            "description" : "魚  拼音：yú  首笔：撇 (j)",
             "zigens" : [
                "魚"
             ]
@@ -1894,7 +1894,7 @@
          {
             "classify" : "通",
             "code" : "pd",
-            "description" : "尤  拼音：yóu  首笔：(k)",
+            "description" : "尤  拼音：yóu  首笔：横 (k)",
             "zigens" : [
                "尤"
             ]
@@ -1902,7 +1902,7 @@
          {
             "classify" : "通",
             "code" : "pk",
-            "description" : "尢  拼音：无  首笔：(k)",
+            "description" : "尢  拼音：无  首笔：横 (k)",
             "zigens" : [
                "尢"
             ]
@@ -1916,7 +1916,7 @@
          {
             "classify" : "通",
             "code" : "pe",
-            "description" : "十  拼音：shí  首笔：(k)",
+            "description" : "十  拼音：shí  首笔：横 (k)",
             "zigens" : [
                "十"
             ]
@@ -1930,7 +1930,7 @@
          {
             "classify" : "通",
             "code" : "pf",
-            "description" : "丬  拼音：无  首笔：(f)",
+            "description" : "丬  拼音：无  首笔：点 (f)",
             "zigens" : [
                "丬"
             ]
@@ -1944,7 +1944,7 @@
          {
             "classify" : "通",
             "code" : "pf",
-            "description" : "丷  拼音：无  首笔：(f)",
+            "description" : "丷  拼音：无  首笔：点 (f)",
             "zigens" : [
                "丷"
             ]
@@ -1952,7 +1952,7 @@
          {
             "classify" : "通",
             "code" : "pi",
-            "description" : "  拼音：无  首笔：点(i)",
+            "description" : "  拼音：无  首笔：竖 (i)",
             "zigens" : [
                ""
             ]
@@ -1960,7 +1960,7 @@
          {
             "classify" : "通",
             "code" : "pf",
-            "description" : "  拼音：无  首笔：(f)",
+            "description" : "  拼音：无  首笔：点 (f)",
             "zigens" : [
                ""
             ]
@@ -1974,7 +1974,7 @@
          {
             "classify" : "通",
             "code" : "pf",
-            "description" : "大  拼音：dà  首笔：(k)",
+            "description" : "大  拼音：dà  首笔：横 (k)",
             "zigens" : [
                "大"
             ]
@@ -1988,7 +1988,7 @@
          {
             "classify" : "通",
             "code" : "pi",
-            "description" : "甫  拼音：fǔ  首笔：(k)",
+            "description" : "甫  拼音：fǔ  首笔：横 (k)",
             "zigens" : [
                "甫"
             ]
@@ -2002,7 +2002,7 @@
          {
             "classify" : "通",
             "code" : "pj",
-            "description" : "向  拼音：xiàng  首笔：(j)",
+            "description" : "向  拼音：xiàng  首笔：撇 (j)",
             "zigens" : [
                "向",
                "",
@@ -2018,7 +2018,7 @@
          {
             "classify" : "通",
             "code" : "qd",
-            "description" : "幺  拼音：yāo  首笔：撇(e)",
+            "description" : "幺  拼音：yāo  首笔：逆时针折 (e)",
             "zigens" : [
                "幺"
             ]
@@ -2032,7 +2032,7 @@
          {
             "classify" : "通",
             "code" : "qd",
-            "description" : "由  拼音：yóu  首笔：点(i)",
+            "description" : "由  拼音：yóu  首笔：竖 (i)",
             "zigens" : [
                "由"
             ]
@@ -2040,7 +2040,7 @@
          {
             "classify" : "通",
             "code" : "qe",
-            "description" : "申  拼音：shēn  首笔：点(i)",
+            "description" : "申  拼音：shēn  首笔：竖 (i)",
             "zigens" : [
                "申"
             ]
@@ -2048,7 +2048,7 @@
          {
             "classify" : "通",
             "code" : "qf",
-            "description" : "电  拼音：diàn  首笔：点(i)",
+            "description" : "电  拼音：diàn  首笔：竖 (i)",
             "zigens" : [
                "电"
             ]
@@ -2062,7 +2062,7 @@
          {
             "classify" : "通",
             "code" : "qd",
-            "description" : "雨  拼音：yǔ  首笔：(k)",
+            "description" : "雨  拼音：yǔ  首笔：横 (k)",
             "zigens" : [
                "雨"
             ]
@@ -2076,7 +2076,7 @@
          {
             "classify" : "通",
             "code" : "qe",
-            "description" : "亡  拼音：wáng  首笔：(f)",
+            "description" : "亡  拼音：wáng  首笔：点 (f)",
             "zigens" : [
                "亡"
             ]
@@ -2084,7 +2084,7 @@
          {
             "classify" : "通",
             "code" : "qf",
-            "description" : "  拼音：无  首笔：(f)",
+            "description" : "  拼音：无  首笔：点 (f)",
             "zigens" : [
                ""
             ]
@@ -2098,7 +2098,7 @@
          {
             "classify" : "通",
             "code" : "qf",
-            "description" : "鬼  拼音：guǐ  首笔：(j)",
+            "description" : "鬼  拼音：guǐ  首笔：撇 (j)",
             "zigens" : [
                "鬼"
             ]
@@ -2106,7 +2106,7 @@
          {
             "classify" : "通",
             "code" : "qj",
-            "description" : "  拼音：无  首笔：(j)",
+            "description" : "  拼音：无  首笔：撇 (j)",
             "zigens" : [
                "",
                "甶",
@@ -2122,7 +2122,7 @@
          {
             "classify" : "通",
             "code" : "qi",
-            "description" : "马  拼音：mǎ  首笔：(d)",
+            "description" : "马  拼音：mǎ  首笔：顺时针折 (d)",
             "zigens" : [
                "马"
             ]
@@ -2136,7 +2136,7 @@
          {
             "classify" : "通",
             "code" : "qi",
-            "description" : "止  拼音：zhǐ  首笔：点(i)",
+            "description" : "止  拼音：zhǐ  首笔：竖 (i)",
             "zigens" : [
                "止",
                ""
@@ -2145,7 +2145,7 @@
          {
             "classify" : "通",
             "code" : "qk",
-            "description" : "齒  拼音：chǐ  首笔：点(i)",
+            "description" : "齒  拼音：chǐ  首笔：竖 (i)",
             "zigens" : [
                "齒"
             ]
@@ -2159,7 +2159,7 @@
          {
             "classify" : "通",
             "code" : "qi",
-            "description" : "正  拼音：zhèng  首笔：(k)",
+            "description" : "正  拼音：zhèng  首笔：横 (k)",
             "zigens" : [
                "正"
             ]
@@ -2173,7 +2173,7 @@
          {
             "classify" : "通",
             "code" : "qj",
-            "description" : "夊  拼音：无  首笔：(j)",
+            "description" : "夊  拼音：无  首笔：撇 (j)",
             "zigens" : [
                "夊",
                "攵"
@@ -2188,7 +2188,7 @@
          {
             "classify" : "通",
             "code" : "qk",
-            "description" : "斤  拼音：jīn  首笔：(j)",
+            "description" : "斤  拼音：jīn  首笔：撇 (j)",
             "zigens" : [
                "斤"
             ]
@@ -2196,7 +2196,7 @@
          {
             "classify" : "通",
             "code" : "qj",
-            "description" : "  拼音：无  首笔：(j)",
+            "description" : "  拼音：无  首笔：撇 (j)",
             "zigens" : [
                ""
             ]
@@ -2210,7 +2210,7 @@
          {
             "classify" : "通",
             "code" : "rd",
-            "description" : "彐  拼音：无  首笔：(d)",
+            "description" : "彐  拼音：无  首笔：顺时针折 (d)",
             "zigens" : [
                "彐"
             ]
@@ -2218,7 +2218,7 @@
          {
             "classify" : "通",
             "code" : "rk",
-            "description" : "  拼音：无  首笔：(k)",
+            "description" : "  拼音：无  首笔：横 (k)",
             "zigens" : [
                ""
             ]
@@ -2226,7 +2226,7 @@
          {
             "classify" : "通",
             "code" : "rd",
-            "description" : "肀  拼音：无  首笔：(d)",
+            "description" : "肀  拼音：无  首笔：顺时针折 (d)",
             "zigens" : [
                "肀"
             ]
@@ -2234,7 +2234,7 @@
          {
             "classify" : "通",
             "code" : "rj",
-            "description" : "隶  拼音：lì  首笔：(d)",
+            "description" : "隶  拼音：lì  首笔：顺时针折 (d)",
             "zigens" : [
                "隶"
             ]
@@ -2248,7 +2248,7 @@
          {
             "classify" : "通",
             "code" : "rd",
-            "description" : "牙  拼音：yá  首笔：(k)",
+            "description" : "牙  拼音：yá  首笔：横 (k)",
             "zigens" : [
                "牙"
             ]
@@ -2262,7 +2262,7 @@
          {
             "classify" : "通",
             "code" : "re",
-            "description" : "糸  拼音：sī  首笔：撇(e)",
+            "description" : "糸  拼音：sī  首笔：逆时针折 (e)",
             "zigens" : [
                "糸",
                ""
@@ -2277,7 +2277,7 @@
          {
             "classify" : "通",
             "code" : "re",
-            "description" : "三  拼音：sān  首笔：(k)",
+            "description" : "三  拼音：sān  首笔：横 (k)",
             "zigens" : [
                "三"
             ]
@@ -2291,7 +2291,7 @@
          {
             "classify" : "通",
             "code" : "rf",
-            "description" : "疒  拼音：无  首笔：(f)",
+            "description" : "疒  拼音：无  首笔：点 (f)",
             "zigens" : [
                "疒"
             ]
@@ -2305,7 +2305,7 @@
          {
             "classify" : "通",
             "code" : "ri",
-            "description" : "隹  拼音：zhuī  首笔：(j)",
+            "description" : "隹  拼音：zhuī  首笔：撇 (j)",
             "zigens" : [
                "隹"
             ]
@@ -2319,7 +2319,7 @@
          {
             "classify" : "通",
             "code" : "rj",
-            "description" : "小  拼音：xiǎo  首笔：点(i)",
+            "description" : "小  拼音：xiǎo  首笔：竖 (i)",
             "zigens" : [
                "小"
             ]
@@ -2327,7 +2327,7 @@
          {
             "classify" : "通",
             "code" : "ri",
-            "description" : "⺌  拼音：无  首笔：点(i)",
+            "description" : "⺌  拼音：无  首笔：竖 (i)",
             "zigens" : [
                "⺌",
                ""
@@ -2336,7 +2336,7 @@
          {
             "classify" : "通",
             "code" : "rf",
-            "description" : "  拼音：无  首笔：(f)",
+            "description" : "  拼音：无  首笔：点 (f)",
             "zigens" : [
                "",
                ""
@@ -2351,7 +2351,7 @@
          {
             "classify" : "通",
             "code" : "rj",
-            "description" : "勹  拼音：无  首笔：(j)",
+            "description" : "勹  拼音：无  首笔：撇 (j)",
             "zigens" : [
                "勹",
                "",
@@ -2367,7 +2367,7 @@
          {
             "classify" : "通",
             "code" : "rj",
-            "description" : "彳  拼音：无  首笔：(j)",
+            "description" : "彳  拼音：无  首笔：撇 (j)",
             "zigens" : [
                "彳",
                ""
@@ -2382,7 +2382,7 @@
          {
             "classify" : "简",
             "code" : "rk",
-            "description" : "鸟  拼音：niǎo  首笔：(j)",
+            "description" : "鸟  拼音：niǎo  首笔：撇 (j)",
             "zigens" : [
                "鸟"
             ]
@@ -2390,7 +2390,7 @@
          {
             "classify" : "通",
             "code" : "rj",
-            "description" : "  拼音：无  首笔：(j)",
+            "description" : "  拼音：无  首笔：撇 (j)",
             "zigens" : [
                ""
             ]
@@ -2398,7 +2398,7 @@
          {
             "classify" : "通",
             "code" : "re",
-            "description" : "乌  拼音：wū  首笔：(j)",
+            "description" : "乌  拼音：wū  首笔：撇 (j)",
             "zigens" : [
                "乌"
             ]
@@ -2412,7 +2412,7 @@
          {
             "classify" : "通",
             "code" : "sd",
-            "description" : "虎  拼音：hǔ  首笔：点(i)",
+            "description" : "虎  拼音：hǔ  首笔：竖 (i)",
             "zigens" : [
                "虎"
             ]
@@ -2420,7 +2420,7 @@
          {
             "classify" : "通",
             "code" : "si",
-            "description" : "虍  拼音：无  首笔：点(i)",
+            "description" : "虍  拼音：无  首笔：竖 (i)",
             "zigens" : [
                "虍",
                ""
@@ -2435,7 +2435,7 @@
          {
             "classify" : "通",
             "code" : "sd",
-            "description" : "用  拼音：yòng  首笔：(j)",
+            "description" : "用  拼音：yòng  首笔：撇 (j)",
             "zigens" : [
                "用"
             ]
@@ -2449,7 +2449,7 @@
          {
             "classify" : "通",
             "code" : "se",
-            "description" : "手  拼音：shǒu  首笔：(j)",
+            "description" : "手  拼音：shǒu  首笔：撇 (j)",
             "zigens" : [
                "手"
             ]
@@ -2457,7 +2457,7 @@
          {
             "classify" : "通",
             "code" : "sj",
-            "description" : "  拼音：无  首笔：(j)",
+            "description" : "  拼音：无  首笔：撇 (j)",
             "zigens" : [
                ""
             ]
@@ -2465,7 +2465,7 @@
          {
             "classify" : "通",
             "code" : "sk",
-            "description" : "  拼音：无  首笔：(k)",
+            "description" : "  拼音：无  首笔：横 (k)",
             "zigens" : [
                ""
             ]
@@ -2479,7 +2479,7 @@
          {
             "classify" : "通",
             "code" : "se",
-            "description" : "王  拼音：wáng  首笔：(k)",
+            "description" : "王  拼音：wáng  首笔：横 (k)",
             "zigens" : [
                "王"
             ]
@@ -2493,7 +2493,7 @@
          {
             "classify" : "通",
             "code" : "sf",
-            "description" : "艮  拼音：gèn  首笔：(d)",
+            "description" : "艮  拼音：gèn  首笔：顺时针折 (d)",
             "zigens" : [
                "艮"
             ]
@@ -2501,7 +2501,7 @@
          {
             "classify" : "通",
             "code" : "sd",
-            "description" : "  拼音：无  首笔：(d)",
+            "description" : "  拼音：无  首笔：顺时针折 (d)",
             "zigens" : [
                ""
             ]
@@ -2515,7 +2515,7 @@
          {
             "classify" : "通",
             "code" : "sf",
-            "description" : "革  拼音：gé  首笔：(k)",
+            "description" : "革  拼音：gé  首笔：横 (k)",
             "zigens" : [
                "革"
             ]
@@ -2529,7 +2529,7 @@
          {
             "classify" : "通",
             "code" : "si",
-            "description" : "方  拼音：fāng  首笔：(f)",
+            "description" : "方  拼音：fāng  首笔：点 (f)",
             "zigens" : [
                "方"
             ]
@@ -2543,7 +2543,7 @@
          {
             "classify" : "通",
             "code" : "si",
-            "description" : "囗  拼音：无  首笔：点(i)",
+            "description" : "囗  拼音：无  首笔：竖 (i)",
             "zigens" : [
                "囗"
             ]
@@ -2557,7 +2557,7 @@
          {
             "classify" : "通",
             "code" : "si",
-            "description" : "缶  拼音：fǒu  首笔：(j)",
+            "description" : "缶  拼音：fǒu  首笔：撇 (j)",
             "zigens" : [
                "缶"
             ]
@@ -2571,7 +2571,7 @@
          {
             "classify" : "通",
             "code" : "sj",
-            "description" : "丿  拼音：无  首笔：(j)",
+            "description" : "丿  拼音：无  首笔：撇 (j)",
             "zigens" : [
                "丿"
             ]
@@ -2585,7 +2585,7 @@
          {
             "classify" : "通",
             "code" : "sj",
-            "description" : "  拼音：无  首笔：(j)",
+            "description" : "  拼音：无  首笔：撇 (j)",
             "zigens" : [
                ""
             ]
@@ -2599,7 +2599,7 @@
          {
             "classify" : "通",
             "code" : "sj",
-            "description" : "西  拼音：xī  首笔：(k)",
+            "description" : "西  拼音：xī  首笔：横 (k)",
             "zigens" : [
                "西"
             ]
@@ -2607,7 +2607,7 @@
          {
             "classify" : "通",
             "code" : "sd",
-            "description" : "酉  拼音：yǒu  首笔：(k)",
+            "description" : "酉  拼音：yǒu  首笔：横 (k)",
             "zigens" : [
                "酉"
             ]
@@ -2621,7 +2621,7 @@
          {
             "classify" : "通",
             "code" : "sk",
-            "description" : "寸  拼音：cùn  首笔：(k)",
+            "description" : "寸  拼音：cùn  首笔：横 (k)",
             "zigens" : [
                "寸",
                ""
@@ -2636,7 +2636,7 @@
          {
             "classify" : "通",
             "code" : "td",
-            "description" : "言  拼音：yán  首笔：(f)",
+            "description" : "言  拼音：yán  首笔：点 (f)",
             "zigens" : [
                "言"
             ]
@@ -2650,7 +2650,7 @@
          {
             "classify" : "通",
             "code" : "te",
-            "description" : "  拼音：无  首笔：撇(e)",
+            "description" : "  拼音：无  首笔：逆时针折 (e)",
             "zigens" : [
                ""
             ]
@@ -2664,7 +2664,7 @@
          {
             "classify" : "通",
             "code" : "te",
-            "description" : "矢  拼音：shǐ  首笔：(j)",
+            "description" : "矢  拼音：shǐ  首笔：撇 (j)",
             "zigens" : [
                "矢"
             ]
@@ -2678,7 +2678,7 @@
          {
             "classify" : "通",
             "code" : "te",
-            "description" : "世  拼音：shì  首笔：(k)",
+            "description" : "世  拼音：shì  首笔：横 (k)",
             "zigens" : [
                "世"
             ]
@@ -2692,7 +2692,7 @@
          {
             "classify" : "通",
             "code" : "tf",
-            "description" : "亠  拼音：无  首笔：(f)",
+            "description" : "亠  拼音：无  首笔：点 (f)",
             "zigens" : [
                "亠"
             ]
@@ -2706,7 +2706,7 @@
          {
             "classify" : "通",
             "code" : "ti",
-            "description" : "丨  拼音：无  首笔：点(i)",
+            "description" : "丨  拼音：无  首笔：竖 (i)",
             "zigens" : [
                "丨",
                "〢",
@@ -2722,7 +2722,7 @@
          {
             "classify" : "通",
             "code" : "ti",
-            "description" : "竹  拼音：zhú  首笔：(j)",
+            "description" : "竹  拼音：zhú  首笔：撇 (j)",
             "zigens" : [
                "竹"
             ]
@@ -2730,7 +2730,7 @@
          {
             "classify" : "通",
             "code" : "tj",
-            "description" : "  拼音：无  首笔：(j)",
+            "description" : "  拼音：无  首笔：撇 (j)",
             "zigens" : [
                "",
                ""
@@ -2745,7 +2745,7 @@
          {
             "classify" : "通",
             "code" : "ti",
-            "description" : "至  拼音：zhì  首笔：(k)",
+            "description" : "至  拼音：zhì  首笔：横 (k)",
             "zigens" : [
                "至"
             ]
@@ -2759,7 +2759,7 @@
          {
             "classify" : "通",
             "code" : "tj",
-            "description" : "心  拼音：xīn  首笔：(f)",
+            "description" : "心  拼音：xīn  首笔：点 (f)",
             "zigens" : [
                "心"
             ]
@@ -2773,7 +2773,7 @@
          {
             "classify" : "通",
             "code" : "tk",
-            "description" : "川  拼音：chuān  首笔：(j)",
+            "description" : "川  拼音：chuān  首笔：撇 (j)",
             "zigens" : [
                "川"
             ]
@@ -2781,7 +2781,7 @@
          {
             "classify" : "通",
             "code" : "tj",
-            "description" : "  拼音：无  首笔：(j)",
+            "description" : "  拼音：无  首笔：撇 (j)",
             "zigens" : [
                ""
             ]
@@ -2789,7 +2789,7 @@
          {
             "classify" : "通",
             "code" : "te",
-            "description" : "巛  拼音：无  首笔：撇(e)",
+            "description" : "巛  拼音：无  首笔：逆时针折 (e)",
             "zigens" : [
                "巛",
                "巜"
@@ -2804,7 +2804,7 @@
          {
             "classify" : "通",
             "code" : "tk",
-            "description" : "丂  拼音：无  首笔：(k)",
+            "description" : "丂  拼音：无  首笔：横 (k)",
             "zigens" : [
                "丂",
                ""
@@ -2819,7 +2819,7 @@
          {
             "classify" : "通",
             "code" : "tk",
-            "description" : "  拼音：无  首笔：(k)",
+            "description" : "  拼音：无  首笔：横 (k)",
             "zigens" : [
                ""
             ]
@@ -2833,7 +2833,7 @@
          {
             "classify" : "通",
             "code" : "tk",
-            "description" : "耂  拼音：无  首笔：(k)",
+            "description" : "耂  拼音：无  首笔：横 (k)",
             "zigens" : [
                "耂"
             ]
@@ -2847,7 +2847,7 @@
          {
             "classify" : "通",
             "code" : "tk",
-            "description" : "车  拼音：chē  首笔：(k)",
+            "description" : "车  拼音：chē  首笔：横 (k)",
             "zigens" : [
                "车"
             ]
@@ -2861,7 +2861,7 @@
          {
             "classify" : "通",
             "code" : "ud",
-            "description" : "乙  拼音：yǐ  首笔：(d)",
+            "description" : "乙  拼音：yǐ  首笔：顺时针折 (d)",
             "zigens" : [
                "乙",
                "亅",
@@ -2877,7 +2877,7 @@
          {
             "classify" : "通",
             "code" : "ue",
-            "description" : "乚  拼音：无  首笔：撇(e)",
+            "description" : "乚  拼音：无  首笔：逆时针折 (e)",
             "zigens" : [
                "乚",
                "",
@@ -2889,7 +2889,7 @@
          {
             "classify" : "通",
             "code" : "ui",
-            "description" : "飛  拼音：fēi  首笔：(d)",
+            "description" : "飛  拼音：fēi  首笔：顺时针折 (d)",
             "zigens" : [
                "飛"
             ]
@@ -2903,7 +2903,7 @@
          {
             "classify" : "通",
             "code" : "ud",
-            "description" : "禾  拼音：hé  首笔：(j)",
+            "description" : "禾  拼音：hé  首笔：撇 (j)",
             "zigens" : [
                "禾"
             ]
@@ -2917,7 +2917,7 @@
          {
             "classify" : "简",
             "code" : "ue",
-            "description" : "  拼音：无  首笔：撇(e)",
+            "description" : "  拼音：无  首笔：逆时针折 (e)",
             "zigens" : [
                "",
                ""
@@ -2932,7 +2932,7 @@
          {
             "classify" : "通",
             "code" : "uf",
-            "description" : "土  拼音：tǔ  首笔：(k)",
+            "description" : "土  拼音：tǔ  首笔：横 (k)",
             "zigens" : [
                "土"
             ]
@@ -2940,7 +2940,7 @@
          {
             "classify" : "通",
             "code" : "ue",
-            "description" : "士  拼音：shì  首笔：(k)",
+            "description" : "士  拼音：shì  首笔：横 (k)",
             "zigens" : [
                "士"
             ]
@@ -2954,7 +2954,7 @@
          {
             "classify" : "通",
             "code" : "ui",
-            "description" : "夫  拼音：fū  首笔：(k)",
+            "description" : "夫  拼音：fū  首笔：横 (k)",
             "zigens" : [
                "夫"
             ]
@@ -2962,7 +2962,7 @@
          {
             "classify" : "通",
             "code" : "uk",
-            "description" : "  拼音：无  首笔：(k)",
+            "description" : "  拼音：无  首笔：横 (k)",
             "zigens" : [
                ""
             ]
@@ -2976,7 +2976,7 @@
          {
             "classify" : "通",
             "code" : "uj",
-            "description" : "习  拼音：xí  首笔：(d)",
+            "description" : "习  拼音：xí  首笔：顺时针折 (d)",
             "zigens" : [
                "习"
             ]
@@ -2990,7 +2990,7 @@
          {
             "classify" : "通",
             "code" : "uj",
-            "description" : "鹿  拼音：lù  首笔：(f)",
+            "description" : "鹿  拼音：lù  首笔：点 (f)",
             "zigens" : [
                "鹿"
             ]
@@ -2998,7 +2998,7 @@
          {
             "classify" : "通",
             "code" : "uf",
-            "description" : "  拼音：无  首笔：(f)",
+            "description" : "  拼音：无  首笔：点 (f)",
             "zigens" : [
                ""
             ]
@@ -3012,7 +3012,7 @@
          {
             "classify" : "通",
             "code" : "uk",
-            "description" : "乃  拼音：nǎi  首笔：(d)",
+            "description" : "乃  拼音：nǎi  首笔：顺时针折 (d)",
             "zigens" : [
                "乃"
             ]
@@ -3020,7 +3020,7 @@
          {
             "classify" : "通",
             "code" : "ud",
-            "description" : "廴  拼音：无  首笔：(d)",
+            "description" : "廴  拼音：无  首笔：顺时针折 (d)",
             "zigens" : [
                "廴"
             ]
@@ -3028,7 +3028,7 @@
          {
             "classify" : "通",
             "code" : "uj",
-            "description" : "  拼音：无  首笔：(j)",
+            "description" : "  拼音：无  首笔：撇 (j)",
             "zigens" : [
                ""
             ]
@@ -3042,7 +3042,7 @@
          {
             "classify" : "通",
             "code" : "uk",
-            "description" : "  拼音：无  首笔：(k)",
+            "description" : "  拼音：无  首笔：横 (k)",
             "zigens" : [
                "",
                ""
@@ -3057,7 +3057,7 @@
          {
             "classify" : "通",
             "code" : "vd",
-            "description" : "耳  拼音：ěr  首笔：(k)",
+            "description" : "耳  拼音：ěr  首笔：横 (k)",
             "zigens" : [
                "耳"
             ]
@@ -3071,7 +3071,7 @@
          {
             "classify" : "通",
             "code" : "vf",
-            "description" : "干  拼音：gàn  首笔：(k)",
+            "description" : "干  拼音：gàn  首笔：横 (k)",
             "zigens" : [
                "干"
             ]
@@ -3085,7 +3085,7 @@
          {
             "classify" : "通",
             "code" : "vi",
-            "description" : "木  拼音：mù  首笔：(k)",
+            "description" : "木  拼音：mù  首笔：横 (k)",
             "zigens" : [
                "木"
             ]
@@ -3093,7 +3093,7 @@
          {
             "classify" : "通",
             "code" : "vk",
-            "description" : "朩  拼音：无  首笔：(k)",
+            "description" : "朩  拼音：无  首笔：横 (k)",
             "zigens" : [
                "朩"
             ]
@@ -3101,7 +3101,7 @@
          {
             "classify" : "通",
             "code" : "vj",
-            "description" : "來  拼音：lái  首笔：(k)",
+            "description" : "來  拼音：lái  首笔：横 (k)",
             "zigens" : [
                "來"
             ]
@@ -3115,7 +3115,7 @@
          {
             "classify" : "通",
             "code" : "vj",
-            "description" : "立  拼音：lì  首笔：(f)",
+            "description" : "立  拼音：lì  首笔：点 (f)",
             "zigens" : [
                "立"
             ]
@@ -3129,7 +3129,7 @@
          {
             "classify" : "通",
             "code" : "vj",
-            "description" : "人  拼音：rén  首笔：(j)",
+            "description" : "人  拼音：rén  首笔：撇 (j)",
             "zigens" : [
                "人"
             ]
@@ -3143,7 +3143,7 @@
          {
             "classify" : "通",
             "code" : "vk",
-            "description" : "己  拼音：jǐ  首笔：(d)",
+            "description" : "己  拼音：jǐ  首笔：顺时针折 (d)",
             "zigens" : [
                "己"
             ]
@@ -3151,7 +3151,7 @@
          {
             "classify" : "通",
             "code" : "vd",
-            "description" : "已  拼音：yǐ  首笔：(d)",
+            "description" : "已  拼音：yǐ  首笔：顺时针折 (d)",
             "zigens" : [
                "已"
             ]
@@ -3159,7 +3159,7 @@
          {
             "classify" : "通",
             "code" : "ve",
-            "description" : "巳  拼音：sì  首笔：(d)",
+            "description" : "巳  拼音：sì  首笔：顺时针折 (d)",
             "zigens" : [
                "巳",
                "",
@@ -3175,7 +3175,7 @@
          {
             "classify" : "通",
             "code" : "vk",
-            "description" : "巾  拼音：jīn  首笔：点(i)",
+            "description" : "巾  拼音：jīn  首笔：竖 (i)",
             "zigens" : [
                "巾"
             ]
@@ -3189,7 +3189,7 @@
          {
             "classify" : "通",
             "code" : "wd",
-            "description" : "页  拼音：yè  首笔：(k)",
+            "description" : "页  拼音：yè  首笔：横 (k)",
             "zigens" : [
                "页"
             ]
@@ -3203,7 +3203,7 @@
          {
             "classify" : "通",
             "code" : "we",
-            "description" : "兀  拼音：wù  首笔：(k)",
+            "description" : "兀  拼音：wù  首笔：横 (k)",
             "zigens" : [
                "兀"
             ]
@@ -3211,7 +3211,7 @@
          {
             "classify" : "通",
             "code" : "wk",
-            "description" : "丌  拼音：无  首笔：(k)",
+            "description" : "丌  拼音：无  首笔：横 (k)",
             "zigens" : [
                "丌",
                ""
@@ -3226,7 +3226,7 @@
          {
             "classify" : "通",
             "code" : "wf",
-            "description" : "高  拼音：gāo  首笔：(f)",
+            "description" : "高  拼音：gāo  首笔：点 (f)",
             "zigens" : [
                "高",
                "",
@@ -3244,7 +3244,7 @@
          {
             "classify" : "通",
             "code" : "wi",
-            "description" : "冂  拼音：无  首笔：点(i)",
+            "description" : "冂  拼音：无  首笔：竖 (i)",
             "zigens" : [
                "冂",
                "",
@@ -3260,7 +3260,7 @@
          {
             "classify" : "通",
             "code" : "wi",
-            "description" : "  拼音：无  首笔：点(i)",
+            "description" : "  拼音：无  首笔：竖 (i)",
             "zigens" : [
                ""
             ]
@@ -3274,7 +3274,7 @@
          {
             "classify" : "通",
             "code" : "wi",
-            "description" : "足  拼音：zú  首笔：点(i)",
+            "description" : "足  拼音：zú  首笔：竖 (i)",
             "zigens" : [
                "足"
             ]
@@ -3288,7 +3288,7 @@
          {
             "classify" : "通",
             "code" : "wi",
-            "description" : "自  拼音：zì  首笔：(j)",
+            "description" : "自  拼音：zì  首笔：撇 (j)",
             "zigens" : [
                "自"
             ]
@@ -3296,7 +3296,7 @@
          {
             "classify" : "通",
             "code" : "we",
-            "description" : "身  拼音：shēn  首笔：(j)",
+            "description" : "身  拼音：shēn  首笔：撇 (j)",
             "zigens" : [
                "身"
             ]
@@ -3310,7 +3310,7 @@
          {
             "classify" : "通",
             "code" : "wj",
-            "description" : "  拼音：无  首笔：(j)",
+            "description" : "  拼音：无  首笔：撇 (j)",
             "zigens" : [
                ""
             ]
@@ -3324,7 +3324,7 @@
          {
             "classify" : "通",
             "code" : "wj",
-            "description" : "入  拼音：rù  首笔：(j)",
+            "description" : "入  拼音：rù  首笔：撇 (j)",
             "zigens" : [
                "入"
             ]
@@ -3338,7 +3338,7 @@
          {
             "classify" : "通",
             "code" : "wk",
-            "description" : "甲  拼音：jiǎ  首笔：点(i)",
+            "description" : "甲  拼音：jiǎ  首笔：竖 (i)",
             "zigens" : [
                "甲"
             ]
@@ -3346,7 +3346,7 @@
          {
             "classify" : "通",
             "code" : "wj",
-            "description" : "里  拼音：lǐ  首笔：点(i)",
+            "description" : "里  拼音：lǐ  首笔：竖 (i)",
             "zigens" : [
                "里"
             ]
@@ -3354,7 +3354,7 @@
          {
             "classify" : "通",
             "code" : "wd",
-            "description" : "禺  拼音：yú  首笔：点(i)",
+            "description" : "禺  拼音：yú  首笔：竖 (i)",
             "zigens" : [
                "禺"
             ]
@@ -3368,7 +3368,7 @@
          {
             "classify" : "通",
             "code" : "wk",
-            "description" : "金  拼音：jīn  首笔：(j)",
+            "description" : "金  拼音：jīn  首笔：撇 (j)",
             "zigens" : [
                "金"
             ]
@@ -3382,7 +3382,7 @@
          {
             "classify" : "通",
             "code" : "xd",
-            "description" : "黑  拼音：hēi  首笔：点(i)",
+            "description" : "黑  拼音：hēi  首笔：竖 (i)",
             "zigens" : [
                "黑"
             ]
@@ -3396,7 +3396,7 @@
          {
             "classify" : "通",
             "code" : "xd",
-            "description" : "二  拼音：èr  首笔：(k)",
+            "description" : "二  拼音：èr  首笔：横 (k)",
             "zigens" : [
                "二"
             ]
@@ -3404,7 +3404,7 @@
          {
             "classify" : "通",
             "code" : "xf",
-            "description" : "  拼音：无  首笔：(f)",
+            "description" : "  拼音：无  首笔：点 (f)",
             "zigens" : [
                ""
             ]
@@ -3412,7 +3412,7 @@
          {
             "classify" : "通",
             "code" : "xj",
-            "description" : "  拼音：无  首笔：(j)",
+            "description" : "  拼音：无  首笔：撇 (j)",
             "zigens" : [
                ""
             ]
@@ -3420,7 +3420,7 @@
          {
             "classify" : "通",
             "code" : "xf",
-            "description" : "⺀  拼音：无  首笔：(f)",
+            "description" : "⺀  拼音：无  首笔：点 (f)",
             "zigens" : [
                "⺀"
             ]
@@ -3428,7 +3428,7 @@
          {
             "classify" : "通",
             "code" : "xk",
-            "description" : "亍  拼音：无  首笔：(k)",
+            "description" : "亍  拼音：无  首笔：横 (k)",
             "zigens" : [
                "亍"
             ]
@@ -3442,7 +3442,7 @@
          {
             "classify" : "通",
             "code" : "xe",
-            "description" : "山  拼音：shān  首笔：点(i)",
+            "description" : "山  拼音：shān  首笔：竖 (i)",
             "zigens" : [
                "山"
             ]
@@ -3456,7 +3456,7 @@
          {
             "classify" : "通",
             "code" : "xe",
-            "description" : "瓦  拼音：wǎ  首笔：(k)",
+            "description" : "瓦  拼音：wǎ  首笔：横 (k)",
             "zigens" : [
                "瓦"
             ]
@@ -3470,7 +3470,7 @@
          {
             "classify" : "通",
             "code" : "xf",
-            "description" : "骨  拼音：gǔ  首笔：点(i)",
+            "description" : "骨  拼音：gǔ  首笔：竖 (i)",
             "zigens" : [
                "骨"
             ]
@@ -3478,7 +3478,7 @@
          {
             "classify" : "通",
             "code" : "xi",
-            "description" : "咼  拼音：无  首笔：点(i)",
+            "description" : "咼  拼音：无  首笔：竖 (i)",
             "zigens" : [
                "咼",
                ""
@@ -3493,7 +3493,7 @@
          {
             "classify" : "通",
             "code" : "xi",
-            "description" : "门  拼音：mén  首笔：(f)",
+            "description" : "门  拼音：mén  首笔：点 (f)",
             "zigens" : [
                "门"
             ]
@@ -3507,7 +3507,7 @@
          {
             "classify" : "通",
             "code" : "xj",
-            "description" : "力  拼音：lì  首笔：(d)",
+            "description" : "力  拼音：lì  首笔：顺时针折 (d)",
             "zigens" : [
                "力"
             ]
@@ -3521,7 +3521,7 @@
          {
             "classify" : "通",
             "code" : "xj",
-            "description" : "穴  拼音：xué  首笔：(f)",
+            "description" : "穴  拼音：xué  首笔：点 (f)",
             "zigens" : [
                "穴"
             ]
@@ -3535,7 +3535,7 @@
          {
             "classify" : "通",
             "code" : "xj",
-            "description" : "  拼音：无  首笔：(j)",
+            "description" : "  拼音：无  首笔：撇 (j)",
             "zigens" : [
                "",
                "彡"
@@ -3550,7 +3550,7 @@
          {
             "classify" : "通",
             "code" : "xj",
-            "description" : "气  拼音：qì  首笔：(j)",
+            "description" : "气  拼音：qì  首笔：撇 (j)",
             "zigens" : [
                "气"
             ]
@@ -3564,7 +3564,7 @@
          {
             "classify" : "通",
             "code" : "xk",
-            "description" : "丑  拼音：chǒu  首笔：(d)",
+            "description" : "丑  拼音：chǒu  首笔：顺时针折 (d)",
             "zigens" : [
                "丑"
             ]
@@ -3572,7 +3572,7 @@
          {
             "classify" : "通",
             "code" : "xi",
-            "description" : "  拼音：无  首笔：点(i)",
+            "description" : "  拼音：无  首笔：竖 (i)",
             "zigens" : [
                ""
             ]
@@ -3586,7 +3586,7 @@
          {
             "classify" : "通",
             "code" : "xk",
-            "description" : "艹  拼音：无  首笔：(k)",
+            "description" : "艹  拼音：无  首笔：横 (k)",
             "zigens" : [
                "艹",
                "廾"
@@ -3601,7 +3601,7 @@
          {
             "classify" : "通",
             "code" : "yd",
-            "description" : "又  拼音：yòu  首笔：(d)",
+            "description" : "又  拼音：yòu  首笔：顺时针折 (d)",
             "zigens" : [
                "又",
                "",
@@ -3618,7 +3618,7 @@
          {
             "classify" : "通",
             "code" : "ye",
-            "description" : "水  拼音：shuǐ  首笔：点(i)",
+            "description" : "水  拼音：shuǐ  首笔：竖 (i)",
             "zigens" : [
                "水",
                "氺"
@@ -3627,7 +3627,7 @@
          {
             "classify" : "通",
             "code" : "yf",
-            "description" : "  拼音：无  首笔：(f)",
+            "description" : "  拼音：无  首笔：点 (f)",
             "zigens" : [
                ""
             ]
@@ -3641,7 +3641,7 @@
          {
             "classify" : "通",
             "code" : "ye",
-            "description" : "食  拼音：shí  首笔：(j)",
+            "description" : "食  拼音：shí  首笔：撇 (j)",
             "zigens" : [
                "食"
             ]
@@ -3655,7 +3655,7 @@
          {
             "classify" : "通",
             "code" : "ye",
-            "description" : "不  拼音：bù  首笔：(k)",
+            "description" : "不  拼音：bù  首笔：横 (k)",
             "zigens" : [
                "不"
             ]
@@ -3669,7 +3669,7 @@
          {
             "classify" : "通",
             "code" : "yf",
-            "description" : "刀  拼音：dāo  首笔：(d)",
+            "description" : "刀  拼音：dāo  首笔：顺时针折 (d)",
             "zigens" : [
                "刀"
             ]
@@ -3683,7 +3683,7 @@
          {
             "classify" : "通",
             "code" : "yi",
-            "description" : "非  拼音：fēi  首笔：点(i)",
+            "description" : "非  拼音：fēi  首笔：竖 (i)",
             "zigens" : [
                "非"
             ]
@@ -3697,7 +3697,7 @@
          {
             "classify" : "通",
             "code" : "yi",
-            "description" : "舟  拼音：zhōu  首笔：(j)",
+            "description" : "舟  拼音：zhōu  首笔：撇 (j)",
             "zigens" : [
                "舟"
             ]
@@ -3711,7 +3711,7 @@
          {
             "classify" : "通",
             "code" : "yk",
-            "description" : "長  拼音：cháng  首笔：(k)",
+            "description" : "長  拼音：cháng  首笔：横 (k)",
             "zigens" : [
                "長",
                "镸",
